@@ -1,0 +1,5518 @@
+{"list": [
+
+
+{
+      "vod_name": "万州三峡移民",
+      "vod_pic": "None",
+      "vod_play_url": "http://123.146.162.24:8013/tslslive/PU2vzMI/hls/live_sd.m3u8"
+    },
+    {
+      "vod_name": "万州影视",
+      "vod_pic": "None",
+      "vod_play_url": "http://123.146.162.24:8013/tslslive/vWlnEzU/hls/live_sd.m3u8"
+    },
+    {
+      "vod_name": "万州科教",
+      "vod_pic": "None",
+      "vod_play_url": "http://123.146.162.24:8013/tslslive/URetCnP/hls/live_sd.m3u8"
+    },
+    {
+      "vod_name": "万州综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://123.146.162.24:8013/tslslive/noEX9SG/hls/live_sd.m3u8"
+    },
+    {
+      "vod_name": "万盛新闻综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream0.tv41.ru/live.m3u8"
+    },
+    {
+      "vod_name": "三明公共",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream.smntv.cn/smtv2/playlist.m3u8"
+    },
+    {
+      "vod_name": "三明新闻综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream.smntv.cn/smtv1/playlist.m3u8"
+    },
+    {
+      "vod_name": "三立新聞",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/gt/SETNews.png",
+      "vod_play_url": "http://seb.sason.top/sc/sllive_fhd.m3u8"
+    },
+    {
+      "vod_name": "三立新聞",
+      "vod_pic": "https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png",
+      "vod_play_url": "http://seb.sason.top/sc/sllive_fhd.m3u8"
+    },
+    {
+      "vod_name": "上海 ICS外语",
+      "vod_pic": "None",
+      "vod_play_url": "http://112.25.48.68/live/program/live/wypdhd/4000000/mnf.m3u8"
+    },
+    {
+      "vod_name": "上海东方卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://ivi.bupt.edu.cn/hls/dfhd.m3u8"
+    },
+    {
+      "vod_name": "上海东方影视",
+      "vod_pic": "None",
+      "vod_play_url": "http://112.25.48.68/live/program/live/dsjpdhd/4000000/mnf.m3u8"
+    },
+
+    {
+      "vod_name": "上海卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://183.207.248.71/cntv/live1/HD-2500k-1080P-dongfangstv/HD-2500k-1080P-dongfangstv"
+    },
+    {
+      "vod_name": "上海卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227396/index.m3u8"
+    },
+    {
+      "vod_name": "上海卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225856/index.m3u8"
+    },
+    {
+      "vod_name": "上海卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227208/index.m3u8"
+    },
+    {
+      "vod_name": "上海哈哈炫动",
+      "vod_pic": "None",
+      "vod_play_url": "http://112.25.48.68/live/program/live/hhxdhd/4000000/mnf.m3u8"
+    },
+    {
+      "vod_name": "上海外滩魔眼",
+      "vod_pic": "None",
+      "vod_play_url": "rtmp://bililive.kksmg.com/hls/sdi80"
+    },
+    {
+      "vod_name": "上海教育",
+      "vod_pic": "None",
+      "vod_play_url": "http://112.25.48.68/live/program/live/setv/1300000/mnf.m3u8"
+    },
+    {
+      "vod_name": "上海教育台",
+      "vod_pic": "None",
+      "vod_play_url": "http://live.setv.sh.cn/slive/shedu02_1200k.m3u8"
+    },
+    {
+      "vod_name": "上海新闻综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://112.25.48.68/live/program/live/xwzhhd/4000000/mnf.m3u8"
+    },
+    {
+      "vod_name": "上海第一财经",
+      "vod_pic": "None",
+      "vod_play_url": "http://112.25.48.68/live/program/live/dycjhd/4000000/mnf.m3u8"
+    },
+    {
+      "vod_name": "上海纪实",
+      "vod_pic": "None",
+      "vod_play_url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225654/index.m3u8"
+    },
+    {
+      "vod_name": "上海纪实",
+      "vod_pic": "None",
+      "vod_play_url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8"
+    },
+    {
+      "vod_name": "上海这一刻魔都眼",
+      "vod_pic": "None",
+      "vod_play_url": "http://bililive.kksmg.com/hls/sdi80/playlist.m3u8"
+    },
+    {
+      "vod_name": "上海都市",
+      "vod_pic": "None",
+      "vod_play_url": "http://112.25.48.68/live/program/live/ylpdhd/4000000/mnf.m3u8"
+    },
+    {
+      "vod_name": "上海金山电视台",
+      "vod_pic": "None",
+      "vod_play_url": "http://live.mudu.tv/watch/4zbn2f.m3u8"
+    },
+    {
+      "vod_name": "上虞1新闻综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8"
+    },
+    {
+      "vod_name": "上虞3新商都",
+      "vod_pic": "None",
+      "vod_play_url": "http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8"
+    },
+    {
+      "vod_name": "上虞經濟文化",
+      "vod_pic": "None",
+      "vod_play_url": "http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8"
+    },
+    {
+      "vod_name": "东南卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8"
+    },
+    {
+      "vod_name": "东南卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://112.25.48.68/live/program/live/dnwshd/4000000/mnf.m3u8"
+    },
+    {
+      "vod_name": "东南卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=23&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "东南卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://117.169.120.140:8080/live/dongnanstv/.m3u8"
+    },
+    {
+      "vod_name": "东南卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://223.110.254.205:6610/cntv/live1/n-dongnanstv/n-dongnanstv/1.m3u8"
+    },
+    {
+      "vod_name": "东南卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://39.134.65.162/PLTV/88888888/224/3221225500/index.m3u8"
+    },
+    {
+      "vod_name": "东南卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://183.207.249.15/PLTV/4/224/3221225816/index.m3u8"
+    },
+    {
+      "vod_name": "东南卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=23&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "东南卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://125.210.152.18:9090/live/DNWSHD_H265.m3u8"
+    },
+    {
+      "vod_name": "东乡电视台",
+      "vod_pic": "https://upload.wikimedia.org/wikipedia/zh/2/28/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png",
+      "vod_play_url": "http://117.156.28.119/270000001111/1110000131/index.m3u8"
+    },
+    {
+      "vod_name": "东方卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/dongfang.jpg",
+      "vod_play_url": "http://39.134.66.66/PLTV/88888888/224/3221225672/index.m3u8"
+    },
+    {
+      "vod_name": "东方卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/dongfang.jpg",
+      "vod_play_url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8"
+    },
+    {
+      "vod_name": "东方卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/dongfang.jpg",
+      "vod_play_url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225659/index.m3u8"
+    },
+    {
+      "vod_name": "东方卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/dongfang.jpg",
+      "vod_play_url": "http://112.25.48.68/live/program/live/hddfws/4000000/mnf.m3u8"
+    },
+    {
+      "vod_name": "东方卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/dongfang.jpg",
+      "vod_play_url": "http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=22&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "东方卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/dongfang.jpg",
+      "vod_play_url": "http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=22&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "东方卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/dongfang.jpg",
+      "vod_play_url": "http://183.207.249.7/PLTV/4/224/3221227396/index.m3u8"
+    },
+    {
+      "vod_name": "东方卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/dongfang.jpg",
+      "vod_play_url": "http://223.110.254.212:6610/cntv/live1/HD-2500k-1080P-dongfangstv/HD-2500k-1080P-dongfangstv/1.m3u8"
+    },
+    {
+      "vod_name": "东方卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/dongfang.jpg",
+      "vod_play_url": "http://ott.js.chinamobile.com/PLTV/3/224/3221227597/index.m3u8"
+    },
+    {
+      "vod_name": "东方卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/dongfang.jpg",
+      "vod_play_url": "http://223.110.243.138/ott.js.chinamobile.com/PLTV/3/224/3221227208/index.m3u8"
+    },
+    {
+      "vod_name": "东方卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/dongfang.jpg",
+      "vod_play_url": "http://223.110.243.138/PLTV/3/224/3221227208/index.m3u8"
+    },
+    {
+      "vod_name": "东方影视",
+      "vod_pic": "None",
+      "vod_play_url": "http://140.207.241.3:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8"
+    },
+    {
+      "vod_name": "东至影视",
+      "vod_pic": "None",
+      "vod_play_url": "http://223.247.33.124:1935/live/yingshi/playlist.m3u8"
+    },
+    {
+      "vod_name": "东至文化资讯",
+      "vod_pic": "None",
+      "vod_play_url": "http://223.247.33.124:1935/live/wenhua/playlist.m3u8"
+    },
+    {
+      "vod_name": "东至新闻综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://223.247.33.124:1935/live/zonghe/playlist.m3u8"
+    },
+    {
+      "vod_name": "东莞综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://dslive.grtn.cn/dgzh/sd/live.m3u8"
+    },
+    {
+      "vod_name": "东阳影视生活",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream.dybtv.com/yssh/GQ/live.m3u8"
+    },
+    {
+      "vod_name": "东阳新闻综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream.dybtv.com/xwzh/GQ/live.m3u8"
+    },
+    {
+      "vod_name": "中国交通",
+      "vod_pic": "None",
+      "vod_play_url": "http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227027/index.m3u8"
+    },
+    {
+      "vod_name": "中国交通",
+      "vod_pic": "None",
+      "vod_play_url": "http://ott.js.chinamobile.com/PLTV/3/224/3221227027/index.m3u8"
+    },
+    {
+      "vod_name": "中国交通 (四川)",
+      "vod_pic": "https://cctbn.com/images/cctbn_sc.jpg",
+      "vod_play_url": "https://tv.lanjingfm.com/cctbn/sichuan.m3u8"
+    },
+    {
+      "vod_name": "中国交通 (安徽)",
+      "vod_pic": "https://cctbn.com/images/cctbn_ah.png",
+      "vod_play_url": "https://tv.lanjingfm.com/cctbn/anhui.m3u8"
+    },
+    {
+      "vod_name": "中国交通 (海南)",
+      "vod_pic": "https://cctbn.com/images/cctbn_hn.png",
+      "vod_play_url": "https://tv.lanjingfm.com/cctbn/hainan.m3u8"
+    },
+    {
+      "vod_name": "中国天气",
+      "vod_pic": "None",
+      "vod_play_url": "http://112.25.48.68/live/program/live/zgqx/1300000/mnf.m3u8"
+    },
+    {
+      "vod_name": "中国教育1",
+      "vod_pic": "None",
+      "vod_play_url": "http://39.134.66.66/PLTV/88888888/224/3221225563/index.m3u8"
+    },
+    {
+      "vod_name": "中国教育1",
+      "vod_pic": "None",
+      "vod_play_url": "http://39.134.39.39/PLTV/88888888/224/3221226282/index.m3u8"
+    },
+    {
+      "vod_name": "中国气象",
+      "vod_pic": "None",
+      "vod_play_url": "http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8"
+    },
+    {
+      "vod_name": "中天新聞",
+      "vod_pic": "https://piceltaott-elta.cdn.hinet.net/upload/channel/908.png",
+      "vod_play_url": "http://seb.sason.top/sc/ztxw_fhd.m3u8"
+    },
+    {
+      "vod_name": "中天新聞",
+      "vod_pic": "https://piceltaott-elta.cdn.hinet.net/upload/channel/908.png",
+      "vod_play_url": "http://seb.sason.top/sc/ztxw_fhd.m3u8"
+    },
+    {
+      "vod_name": "中山公共",
+      "vod_pic": "None",
+      "vod_play_url": "http://dslive.grtn.cn/zszh/sd/live.m3u8"
+    },
+    {
+      "vod_name": "中山教育",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/tv.php?id=zsjy"
+    },
+    {
+      "vod_name": "中山综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/tv.php?id=zszh"
+    },
+    {
+      "vod_name": "中牟综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://live.dxhmt.cn:9081/tv/10122-1.m3u8"
+    },
+    {
+      "vod_name": "中牟综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://218.206.193.210:9850/playServer/acquirePlayService?deviceGroup=TV(STB)&drmType=none&kdsplayer=media&nsukey=&op=sovp&playType=catchup&protocol=hls0&redirect=m3u8&resourceId=1000000000000001&type=live"
+    },
+    {
+      "vod_name": "中視新聞",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png",
+      "vod_play_url": "http://seb.sason.top/sc/zsxw_fhd.m3u8"
+    },
+    {
+      "vod_name": "中視新聞",
+      "vod_pic": "http://new.ctv.com.tw/Cms_Data/Sites/CTV3/Themes/default/images/logo_news.png",
+      "vod_play_url": "http://seb.sason.top/sc/zsxw_fhd.m3u8"
+    },
+    {
+      "vod_name": "临沂公共",
+      "vod_pic": "None",
+      "vod_play_url": "http://live.ilinyi.net/channels/tvie/linyigonggong/flv:500k/live"
+    },
+    {
+      "vod_name": "临沂农科",
+      "vod_pic": "None",
+      "vod_play_url": "http://live.ilinyi.net/channels/tvie/linyicaijing/flv:500k/live"
+    },
+    {
+      "vod_name": "乐清新闻",
+      "vod_pic": "None",
+      "vod_play_url": "http://33809.hlsplay.aodianyun.com/guangdianyun_33809/tv_channel_170.m3u8"
+    },
+    {
+      "vod_name": "乐清生活",
+      "vod_pic": "None",
+      "vod_play_url": "http://33809.hlsplay.aodianyun.com/guangdianyun_33809/tv_channel_171.m3u8"
+    },
+    {
+      "vod_name": "云南 Ⅰ 文山公共台",
+      "vod_pic": "None",
+      "vod_play_url": "http://tvdrs.wsrtv.com.cn:8100/channellive/ch2.flv"
+    },
+    {
+      "vod_name": "云南 Ⅰ 文山综合台",
+      "vod_pic": "None",
+      "vod_play_url": "http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv"
+    },
+    {
+      "vod_name": "云南 Ⅰ 红河综合台",
+      "vod_pic": "None",
+      "vod_play_url": "http://file.hhtv.cc/cms/videos/nmip-media/channellive/channel1/playlist.m3u8"
+    },
+    {
+      "vod_name": "云南公共",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/ws/yunnan.png",
+      "vod_play_url": "http://yntvpullhls.ynradio.com/live/yunnangonggong/playlist.m3u8"
+    },
+    {
+      "vod_name": "云南卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225664/index.m3u8"
+    },
+    {
+      "vod_name": "云南卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=110&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "云南卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=110&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "云南卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://183.207.248.71/gitv/live1/G_YUNNAN/G_YUNNAN"
+    },
+    {
+      "vod_name": "云南卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225591/index.m3u8"
+    },
+    {
+      "vod_name": "云南卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225838/index.m3u8"
+    },
+    {
+      "vod_name": "云南卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://223.110.245.173/PLTV/4/224/3221225838/index.m3u8"
+    },
+    {
+      "vod_name": "云南卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://ott.js.chinamobile.com/PLTV/3/224/3221225838/index.m3u8"
+    },
+    {
+      "vod_name": "云南卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://112.25.48.68/live/program/live/ynws/1300000/mnf.m3u8"
+    },
+    {
+      "vod_name": "云南卫视",
+      "vod_pic": "None",
+      "vod_play_url": "https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8"
+    },
+    {
+      "vod_name": "云南卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://183.207.248.71/cntv/live1/yunnanstv/yunnanstv"
+    },
+    {
+      "vod_name": "云南国际",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/ws/yunnan.png",
+      "vod_play_url": "http://yntvpullhls.ynradio.com/live/yunnanguoji/playlist.m3u8"
+    },
+    {
+      "vod_name": "云南娱乐",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/ws/yunnan.png",
+      "vod_play_url": "http://yntvpullhls.ynradio.com/live/yunnanyule/playlist.m3u8"
+    },
+
+    {
+      "vod_name": "云南生活资讯",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/ws/yunnan.png",
+      "vod_play_url": "http://yntvpullhls.ynradio.com/live/yunnanshenghuo/playlist.m3u8"
+    },
+    {
+      "vod_name": "云南都市",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/ws/yunnan.png",
+      "vod_play_url": "http://yntvpullhls.ynradio.com/live/yunnandushi/playlist.m3u8"
+    },
+    {
+      "vod_name": "云浮综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://dslive.grtn.cn/yfzh/playlist.m3u8"
+    },
+
+    {
+      "vod_name": "亚太台",
+      "vod_pic": "None",
+      "vod_play_url": "http://174.127.67.246/live330/playlist.m3u8"
+    },
+    {
+      "vod_name": "亞旅衛視",
+      "vod_pic": "https://i.imgur.com/1wbOhJV.jpg",
+      "vod_play_url": "http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8"
+    },
+    {
+      "vod_name": "交城電視台",
+      "vod_pic": "None",
+      "vod_play_url": "http://sxjc.chinashadt.com:2036/live/stream:jctv.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "京视剧场",
+      "vod_pic": "None",
+      "vod_play_url": "http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221227040/index.m3u8"
+    },
+    {
+      "vod_name": "亳州农村",
+      "vod_pic": "None",
+      "vod_play_url": "http://220.180.110.101:8083/videos/live/39/13/o4ncrHkSp7q09/o4ncrHkSp7q09.m3u8"
+    },
+    {
+      "vod_name": "亳州新聞頻道",
+      "vod_pic": "None",
+      "vod_play_url": "http://220.180.110.101:8083/videos/live/33/59/NC7XQdEveyncq/NC7XQdEveyncq.m3u8"
+    },
+    {
+      "vod_name": "今日俄罗斯",
+      "vod_pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png",
+      "vod_play_url": "https://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8"
+    },
+    {
+      "vod_name": "仙桃新聞綜合",
+      "vod_pic": "None",
+      "vod_play_url": "http://221.233.242.239:280/live/71/playlist.m3u8"
+    },
+    {
+      "vod_name": "仙桃生活文體",
+      "vod_pic": "None",
+      "vod_play_url": "http://221.233.242.239:280/live/72/playlist.m3u8"
+    },
+
+    {
+      "vod_name": "优视",
+      "vod_pic": "None",
+      "vod_play_url": "http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8"
+    },
+    {
+      "vod_name": "优视",
+      "vod_pic": "None",
+      "vod_play_url": "http://1-fss24-s0.streamhoster.com/lv_uchannel/broadcast1/playlist.m3u8"
+    },
+    {
+      "vod_name": "余姚姚江文化",
+      "vod_pic": "None",
+      "vod_play_url": "http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8"
+    },
+    {
+      "vod_name": "余姚新闻综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8"
+    },
+    {
+      "vod_name": "佛山公共",
+      "vod_pic": "None",
+      "vod_play_url": "http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=182&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "佛山公共",
+      "vod_pic": "None",
+      "vod_play_url": "http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=182&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "侨乡",
+      "vod_pic": "qiaoxiangpingdao.png",
+      "vod_play_url": "http://stream.jinjiang.tv/1/sd/live.m3u8"
+    },
+    {
+      "vod_name": "內蒙古卫视",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/ws/neimeng.png",
+      "vod_play_url": "http://live.m2oplus.nmtv.cn/1/playlist.m3u8"
+    },
+    {
+      "vod_name": "六安公共",
+      "vod_pic": "http://www.china-latv.com/t/icon/201901/20190107160038YJK.png",
+      "vod_play_url": "http://live.china-latv.com/channel2/playlist.m3u8"
+    },
+    {
+      "vod_name": "六安新闻综合",
+      "vod_pic": "http://www.china-latv.com/t/icon/201901/20190107160038YJK.png",
+      "vod_play_url": "http://live.china-latv.com/channel1/playlist.m3u8"
+    },
+    {
+      "vod_name": "兵团卫视",
+      "vod_pic": "http://www.tvyan.com/uploads/dianshi/bingtuantv.jpg",
+      "vod_play_url": "http://112.25.48.68/live/program/live/btws/1300000/mnf.m3u8"
+    },
+    {
+      "vod_name": "兵团卫视",
+      "vod_pic": "http://www.tvyan.com/uploads/dianshi/bingtuantv.jpg",
+      "vod_play_url": "http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=050&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8"
+    },
+    {
+      "vod_name": "内江公共",
+      "vod_pic": "None",
+      "vod_play_url": "http://njzb.scnj.tv:90/live/gggy_gggy800.m3u8"
+    },
+    {
+      "vod_name": "内江科教",
+      "vod_pic": "None",
+      "vod_play_url": "http://njzb.scnj.tv:90/live/kjpd_kjpd800.m3u8"
+    },
+    {
+      "vod_name": "内江综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://njzb.scnj.tv:90/live/xwzh_xwzh800.m3u8"
+    },
+    {
+      "vod_name": "内蒙卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://39.134.65.162/PLTV/88888888/224/3221225577/index.m3u8"
+    },
+    {
+      "vod_name": "内蒙古",
+      "vod_pic": "None",
+      "vod_play_url": "http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225836/index.m3u8"
+    },
+    {
+      "vod_name": "内蒙古卫视",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/ws/neimeng.png",
+      "vod_play_url": "http://39.134.66.66/PLTV/88888888/224/3221225577/index.m3u8"
+    },
+    {
+      "vod_name": "内蒙古卫视",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/ws/neimeng.png",
+      "vod_play_url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225667/index.m3u8"
+    },
+    {
+      "vod_name": "内蒙古卫视",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/ws/neimeng.png",
+      "vod_play_url": "http://117.169.120.140:8080/live/neimenggustv/.m3u8"
+    },
+    {
+      "vod_name": "内蒙古卫视",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/ws/neimeng.png",
+      "vod_play_url": "http://183.207.248.71/gitv/live1/G_NEIMENGGU/G_NEIMENGGU"
+    },
+    {
+      "vod_name": "内蒙古卫视",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/ws/neimeng.png",
+      "vod_play_url": "http://223.110.245.173/PLTV/4/224/3221225836/index.m3u8"
+    },
+    {
+      "vod_name": "内蒙古卫视",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/ws/neimeng.png",
+      "vod_play_url": "http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=17&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "内蒙蒙语",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream.nmtv.cn/3/sd/live.m3u8"
+    },
+    {
+      "vod_name": "农安新闻综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream2.jlntv.cn/naxw/sd/live.m3u8"
+    },
+    {
+      "vod_name": "凤凰中文",
+      "vod_pic": "None",
+      "vod_play_url": "http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8"
+    },
+    {
+      "vod_name": "凤凰中文",
+      "vod_pic": "None",
+      "vod_play_url": "http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8"
+    },
+    {
+      "vod_name": "凤凰中文",
+      "vod_pic": "None",
+      "vod_play_url": "http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8"
+    },
+    {
+      "vod_name": "凤凰中文",
+      "vod_pic": "None",
+      "vod_play_url": "http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=190&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "凤凰中文",
+      "vod_pic": "None",
+      "vod_play_url": "http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=190&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "凤凰中文",
+      "vod_pic": "None",
+      "vod_play_url": "http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=190&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=1&Pcontent_id=.m3u8&Provider_id="
+    },
+    {
+      "vod_name": "凤凰中文",
+      "vod_pic": "None",
+      "vod_play_url": "http://m-tvlmedia.public.bcs.ysten.com/live/fhchinese/1.m3u8"
+    },
+    {
+      "vod_name": "凤凰中文",
+      "vod_pic": "None",
+      "vod_play_url": "http://m-tvlmedia.public.bcs.ysten.com/ysten-bussiness/live/fhchinese/1.m3u8"
+    },
+    {
+      "vod_name": "凤凰中文",
+      "vod_pic": "None",
+      "vod_play_url": "http://125.210.152.18:9090/live/FHZW_1200.m3u8"
+    },
+
+    {
+      "vod_name": "凤凰资讯",
+      "vod_pic": "None",
+      "vod_play_url": "http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8"
+    },
+    {
+      "vod_name": "凤凰资讯",
+      "vod_pic": "None",
+      "vod_play_url": "http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8"
+    },
+    {
+      "vod_name": "凤凰资讯",
+      "vod_pic": "None",
+      "vod_play_url": "http://m-tvlmedia.public.bcs.ysten.com/ysten-bussiness/live/fhzixun/1.m3u8"
+    },
+    {
+      "vod_name": "凤凰资讯",
+      "vod_pic": "None",
+      "vod_play_url": "http://125.210.152.18:9090/live/FHZX_1200.m3u8"
+    },
+
+    {
+      "vod_name": "凤台文化生活",
+      "vod_pic": "None",
+      "vod_play_url": "http://60.175.115.119:1935/live/wenhua/playlist.m3u8"
+    },
+    {
+      "vod_name": "凤台综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://60.175.115.119:1935/live/zonghe/playlist.m3u8"
+    },
+    {
+      "vod_name": "利川公共",
+      "vod_pic": "None",
+      "vod_play_url": "http://lichuan.live.tempsource.cjyun.org/videotmp/s10093-lcgg.m3u8"
+    },
+    {
+      "vod_name": "利川公共",
+      "vod_pic": "None",
+      "vod_play_url": "http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w1847269952_b204800.m3u8"
+    },
+    {
+      "vod_name": "利川新闻综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w439903609_b1228800.m3u8"
+    },
+    {
+      "vod_name": "前郭综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream2.jlntv.cn/qg/sd/live.m3u8"
+    },
+
+
+
+
+    {
+      "vod_name": "北京冬奥纪实",
+      "vod_pic": "None",
+      "vod_play_url": "http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=158&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+
+
+    {
+      "vod_name": "北京卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/bjbtv.jpg",
+      "vod_play_url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225673/index.m3u8"
+    },
+    {
+      "vod_name": "北京卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/bjbtv.jpg",
+      "vod_play_url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225674/index.m3u8"
+    },
+    {
+      "vod_name": "北京卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/bjbtv.jpg",
+      "vod_play_url": "http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=30&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "北京卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/bjbtv.jpg",
+      "vod_play_url": "http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=30&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "北京卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/bjbtv.jpg",
+      "vod_play_url": "http://183.207.248.71/cntv/live1/beijingstv/beijingstv"
+    },
+    {
+      "vod_name": "北京卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/bjbtv.jpg",
+      "vod_play_url": "http://183.207.248.71/cntv/live1/HD-2500k-1080P-beijingstv/HD-2500k-1080P-beijingstv"
+    },
+    {
+      "vod_name": "北京卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/bjbtv.jpg",
+      "vod_play_url": "http://183.207.249.7/PLTV/3/224/3221225574/index.m3u8"
+    },
+    {
+      "vod_name": "北京卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/bjbtv.jpg",
+      "vod_play_url": "http://183.207.249.8/PLTV/3/224/3221225574/index.m3u8"
+    },
+    {
+      "vod_name": "北京卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/bjbtv.jpg",
+      "vod_play_url": "http://223.110.243.173/PLTV/3/224/3221227246/index.m3u8"
+    },
+    {
+      "vod_name": "北京卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/bjbtv.jpg",
+      "vod_play_url": "http://223.110.245.139/PLTV/4/224/3221227390/index.m3u8"
+    },
+    {
+      "vod_name": "北京卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/bjbtv.jpg",
+      "vod_play_url": "http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225574/index.m3u8"
+    },
+    {
+      "vod_name": "北京卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/bjbtv.jpg",
+      "vod_play_url": "http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221227436/index.m3u8"
+    },
+    {
+      "vod_name": "北京卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/bjbtv.jpg",
+      "vod_play_url": "http://223.110.245.173/PLTV/4/224/3221227390/index.m3u8"
+    },
+    {
+      "vod_name": "北京卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/bjbtv.jpg",
+      "vod_play_url": "http://ott.js.chinamobile.com/PLTV/3/224/3221225574/index.m3u8"
+    },
+    {
+      "vod_name": "北京卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/bjbtv.jpg",
+      "vod_play_url": "http://ivi.bupt.edu.cn/hls/btv1.m3u8"
+    },
+    {
+      "vod_name": "北京卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/bjbtv.jpg",
+      "vod_play_url": "http://112.25.48.68/live/program/live/bjwshd/4000000/mnf.m3u8"
+    },
+    {
+      "vod_name": "北京卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/bjbtv.jpg",
+      "vod_play_url": "http://183.207.248.71/gitv/live1/G_BEIJING/G_BEIJING"
+    },
+    {
+      "vod_name": "北京家有购物",
+      "vod_pic": "None",
+      "vod_play_url": "http://39.134.66.66/PLTV/88888888/224/3221225554/index.m3u8"
+    },
+    {
+      "vod_name": "北京影視",
+      "vod_pic": "None",
+      "vod_play_url": "http://ivi.bupt.edu.cn/hls/btv4.m3u8"
+    },
+    {
+      "vod_name": "北京文藝",
+      "vod_pic": "None",
+      "vod_play_url": "http://ivi.bupt.edu.cn/hls/btv2.m3u8"
+    },
+    {
+      "vod_name": "北京新聞",
+      "vod_pic": "None",
+      "vod_play_url": "http://ivi.bupt.edu.cn/hls/btv9.m3u8"
+    },
+    {
+      "vod_name": "北京生活",
+      "vod_pic": "None",
+      "vod_play_url": "http://ivi.bupt.edu.cn/hls/btv7.m3u8"
+    },
+    {
+      "vod_name": "北京科教",
+      "vod_pic": "None",
+      "vod_play_url": "http://ivi.bupt.edu.cn/hls/btv3.m3u8"
+    },
+    {
+      "vod_name": "北京紀實",
+      "vod_pic": "https://media.bjnews.com.cn/image/2019/05/03/4788479376108891447.jpg",
+      "vod_play_url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225675/index.m3u8"
+    },
+    {
+      "vod_name": "北京紀實",
+      "vod_pic": "https://media.bjnews.com.cn/image/2019/05/03/4788479376108891447.jpg",
+      "vod_play_url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8"
+    },
+    {
+      "vod_name": "北京衛視",
+      "vod_pic": "https://parco-zh.github.io/demo/bjbtv.jpg",
+      "vod_play_url": "http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/bjwshd/4000000/mnf.m3u8"
+    },
+    {
+      "vod_name": "北京财经",
+      "vod_pic": "None",
+      "vod_play_url": "http://ivi.bupt.edu.cn/hls/btv5.m3u8"
+    },
+    {
+      "vod_name": "北京青年",
+      "vod_pic": "None",
+      "vod_play_url": "http://ivi.bupt.edu.cn/hls/btv8.m3u8"
+    },
+    {
+      "vod_name": "北碚综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://222.178.181.121:12034/beibei01.m3u8"
+    },
+    {
+      "vod_name": "半岛新闻",
+      "vod_pic": "None",
+      "vod_play_url": "https://live-hls-web-aje.getaj.net/AJE/01.m3u8"
+    },
+    {
+      "vod_name": "华亭电视台",
+      "vod_pic": "http://5b0988e595225.cdn.sohucs.com/images/20181203/2813953209084182afb08496fd20e484.jpeg",
+      "vod_play_url": "http://117.156.28.119/270000001111/1110000148/index.m3u8"
+    },
+    {
+      "vod_name": "华数",
+      "vod_pic": "None",
+      "vod_play_url": "http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8"
+    },
+    {
+      "vod_name": "南京信息",
+      "vod_pic": "None",
+      "vod_play_url": "http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8"
+    },
+    {
+      "vod_name": "南京十八",
+      "vod_pic": "None",
+      "vod_play_url": "http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8"
+    },
+    {
+      "vod_name": "南京十八",
+      "vod_pic": "None",
+      "vod_play_url": "http://183.207.248.71/gitv/live1/G_NJSB/G_NJSB"
+    },
+    {
+      "vod_name": "南京娱乐",
+      "vod_pic": "None",
+      "vod_play_url": "http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8"
+    },
+
+    {
+      "vod_name": "南京影视",
+      "vod_pic": "None",
+      "vod_play_url": "http://live.nbs.cn/channels/njtv/yspd/m3u8:500k/live.m3u8"
+    },
+    {
+      "vod_name": "南京教科",
+      "vod_pic": "None",
+      "vod_play_url": "http://183.207.248.71/gitv/live1/G_NJJK/G_NJJK"
+    },
+    {
+      "vod_name": "南京教科",
+      "vod_pic": "None",
+      "vod_play_url": "http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221227194/index.m3u8"
+    },
+    {
+      "vod_name": "南京教科",
+      "vod_pic": "None",
+      "vod_play_url": "http://live.nbs.cn/channels/njtv/jkpd/m3u8:500k/live.m3u8"
+    },
+    {
+      "vod_name": "南京新闻综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8"
+    },
+    {
+      "vod_name": "南京生活",
+      "vod_pic": "None",
+      "vod_play_url": "http://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8"
+    },
+    {
+      "vod_name": "南召一套",
+      "vod_pic": "None",
+      "vod_play_url": "http://hnnz.chinashadt.com:1935/live/1002.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "南宁公共",
+      "vod_pic": "None",
+      "vod_play_url": "http://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8"
+    },
+    {
+      "vod_name": "南宁影视娱乐",
+      "vod_pic": "None",
+      "vod_play_url": "http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8"
+    },
+    {
+      "vod_name": "南宁新闻综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8"
+    },
+    {
+      "vod_name": "南宁都市生活",
+      "vod_pic": "None",
+      "vod_play_url": "http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8"
+    },
+    {
+      "vod_name": "南川新闻综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://221.5.213.4:30000/1111.m3u8"
+    },
+    {
+      "vod_name": "南川新闻综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://nanchuanlive.cbg.cn:30000/1111.m3u8"
+    },
+    {
+      "vod_name": "南川旅游经济",
+      "vod_pic": "None",
+      "vod_play_url": "http://221.5.213.4:30000/2222.m3u8"
+    },
+    {
+      "vod_name": "南川旅游经济",
+      "vod_pic": "None",
+      "vod_play_url": "http://nanchuanlive.cbg.cn:30000/2222.m3u8"
+    },
+    {
+      "vod_name": "南方卫视",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/ws/nanfang.png",
+      "vod_play_url": "http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=9&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "南方卫视",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/ws/nanfang.png",
+      "vod_play_url": "http://149.129.100.78/guangdong.php?id=51"
+    },
+    {
+      "vod_name": "南方购物",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/guangdong.php?id=42"
+    },
+    {
+      "vod_name": "南通公共",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/nantong.php?id=gg"
+    },
+    {
+      "vod_name": "南通教育",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/nantong.php?id=sj"
+    },
+    {
+      "vod_name": "南通文化旅游",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/nantong.php?id=ly"
+    },
+    {
+      "vod_name": "南通新闻综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/nantong.php?id=zh"
+    },
+    {
+      "vod_name": "南阳新闻",
+      "vod_pic": "None",
+      "vod_play_url": "http://30539.hlsplay.aodianyun.com/lms_30539/tv_channel_142.m3u8"
+    },
+    {
+      "vod_name": "南陽公共頻道",
+      "vod_pic": "None",
+      "vod_play_url": "http://30539.hlsplay.aodianyun.com/lms_30539/tv_channel_295.m3u8"
+    },
+    {
+      "vod_name": "南陽科教頻道",
+      "vod_pic": "None",
+      "vod_play_url": "http://30539.hlsplay.aodianyun.com/lms_30539/tv_channel_296.m3u8"
+    },
+    {
+      "vod_name": "博州汉语综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://klmyyun.chinavas.com/hls/bozhou1.m3u8"
+    },
+    {
+      "vod_name": "博州维语综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://klmyyun.chinavas.com/hls/bozhou3.m3u8"
+    },
+    {
+      "vod_name": "原住民電視",
+      "vod_pic": "http://titv.ipcf.org.tw/images/logo.png",
+      "vod_play_url": "http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8"
+    },
+    {
+      "vod_name": "厦门卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/XMWS.png",
+      "vod_play_url": "http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221226996/index.m3u8"
+    },
+    {
+      "vod_name": "厦门卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/XMWS.png",
+      "vod_play_url": "http://112.25.48.68/live/program/live/xmws/1300000/mnf.m3u8"
+    },
+    {
+      "vod_name": "双峰电视一套",
+      "vod_pic": "None",
+      "vod_play_url": "http://hnsf.chinashadt.com:2036/zhuanma/tv1.stream_360p/playlist.m3u8"
+    },
+    {
+      "vod_name": "发现之旅",
+      "vod_pic": "None",
+      "vod_play_url": "http://125.210.152.18:9090/live/FXZL_750.m3u8"
+    },
+    {
+      "vod_name": "台視新聞",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png",
+      "vod_play_url": "http://seb.sason.top/sc/tsxw_fhd.m3u8"
+    },
+    {
+      "vod_name": "台視新聞",
+      "vod_pic": "https://www.ttv.com.tw/news/15/images/TTV-N_logo200-min.png",
+      "vod_play_url": "http://seb.sason.top/sc/tsxw_fhd.m3u8"
+    },
+    {
+      "vod_name": "吉州新聞綜合",
+      "vod_pic": "None",
+      "vod_play_url": "http://218.204.153.158/10.m3u8"
+    },
+    {
+      "vod_name": "吉林7",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream1.jlntv.cn/fzpd/sd/live.m3u8"
+    },
+    {
+      "vod_name": "吉林卫视",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/ws/jilin.png",
+      "vod_play_url": "http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=25&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "吉林卫视",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/ws/jilin.png",
+      "vod_play_url": "http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=25&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "吉林卫视",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/ws/jilin.png",
+      "vod_play_url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225680/index.m3u8"
+    },
+    {
+      "vod_name": "吉林卫视",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/ws/jilin.png",
+      "vod_play_url": "http://117.169.120.140:8080/live/jilinstv/.m3u8"
+    },
+    {
+      "vod_name": "吉林卫视",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/ws/jilin.png",
+      "vod_play_url": "http://183.207.249.7/PLTV/4/224/3221225883/index.m3u8"
+    },
+    {
+      "vod_name": "吉林卫视",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/ws/jilin.png",
+      "vod_play_url": "http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225883/index.m3u8"
+    },
+    {
+      "vod_name": "吉林卫视",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/ws/jilin.png",
+      "vod_play_url": "http://112.25.48.68/live/program/live/jlws/1300000/mnf.m3u8"
+    },
+    {
+      "vod_name": "吉林卫视",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/ws/jilin.png",
+      "vod_play_url": "http://stream4.jlntv.cn/test2/sd/live.m3u8"
+    },
+    {
+      "vod_name": "吉林卫视",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/ws/jilin.png",
+      "vod_play_url": "http://125.210.152.18:9090/live/JLWSHD_H265.m3u8"
+    },
+    {
+      "vod_name": "吉林市新闻综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream2.jlntv.cn/jilin1/sd/live.m3u8"
+    },
+    {
+      "vod_name": "吉林乡村",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream1.jlntv.cn/xcpd/sd/live.m3u8"
+    },
+    {
+      "vod_name": "吴江新闻综合",
+      "vod_pic": "http://www.tvyan.com/uploads/dianshi/wujiangtv.jpg",
+      "vod_play_url": "http://30515.hlsplay.aodianyun.com/lms_30515/tv_channel_239.m3u8"
+    },
+    {
+      "vod_name": "周口图文信息",
+      "vod_pic": "None",
+      "vod_play_url": "http://tv.zkxww.com:1935/live4/mp4:ch4-500k/playlist.m3u8"
+    },
+    {
+      "vod_name": "周口影视",
+      "vod_pic": "None",
+      "vod_play_url": "http://hls.haokan.bdstatic.com/haokan/stream_bduid_1646578943_0.m3u8"
+    },
+    {
+      "vod_name": "周口新闻综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://tv.zkxww.com:1935/live1/mp4:ch1-500k/playlist.m3u8"
+    },
+    {
+      "vod_name": "周口科教文化2",
+      "vod_pic": "None",
+      "vod_play_url": "http://tv.zkxww.com:1935/live3/mp4:ch3-500k/playlist.m3u8"
+    },
+    {
+      "vod_name": "周口经济生活2",
+      "vod_pic": "None",
+      "vod_play_url": "http://tv.zkxww.com:1935/live2/mp4:ch2-500k/playlist.m3u8"
+    },
+    {
+      "vod_name": "呼伦贝尔新闻",
+      "vod_pic": "None",
+      "vod_play_url": "http://live1.hrtonline.cn:1935/live/live100/500K/tzwj_video.m3u8"
+    },
+    {
+      "vod_name": "呼伦贝尔生活资讯",
+      "vod_pic": "None",
+      "vod_play_url": "http://live1.hrtonline.cn:1935/live/live102/500K/tzwj_video.m3u8"
+    },
+    {
+      "vod_name": "和政电视台",
+      "vod_pic": "https://upload.wikimedia.org/wikipedia/zh/2/28/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png",
+      "vod_play_url": "http://117.156.28.119/270000001111/1110000149/index.m3u8"
+    },
+    {
+      "vod_name": "咪咕视频",
+      "vod_pic": "None",
+      "vod_play_url": "http://39.134.66.66/PLTV/88888888/224/3221225613/index.m3u8"
+    },
+    {
+      "vod_name": "咪咕视频",
+      "vod_pic": "None",
+      "vod_play_url": "http://39.134.66.66/PLTV/88888888/224/3221225615/index.m3u8"
+    },
+    {
+      "vod_name": "咪咕视频",
+      "vod_pic": "None",
+      "vod_play_url": "http://39.134.66.66/PLTV/88888888/224/3221225618/index.m3u8"
+    },
+    {
+      "vod_name": "咪咕视频",
+      "vod_pic": "None",
+      "vod_play_url": "http://39.134.66.66/PLTV/88888888/224/3221225619/index.m3u8"
+    },
+    {
+      "vod_name": "咪咕视频",
+      "vod_pic": "None",
+      "vod_play_url": "http://39.134.66.66/PLTV/88888888/224/3221225620/index.m3u8"
+    },
+    {
+      "vod_name": "咪咕视频",
+      "vod_pic": "None",
+      "vod_play_url": "http://39.134.66.66/PLTV/88888888/224/3221225621/index.m3u8"
+    },
+    {
+      "vod_name": "咪咕视频",
+      "vod_pic": "None",
+      "vod_play_url": "http://39.134.66.66/PLTV/88888888/224/3221225622/index.m3u8"
+    },
+    {
+      "vod_name": "咪咕视频",
+      "vod_pic": "None",
+      "vod_play_url": "http://39.134.66.66/PLTV/88888888/224/3221225638/index.m3u8"
+    },
+    {
+      "vod_name": "咪咕视频",
+      "vod_pic": "None",
+      "vod_play_url": "http://39.134.66.66/PLTV/88888888/224/3221225617/index.m3u8"
+    },
+    {
+      "vod_name": "哈哈炫动卫视",
+      "vod_pic": "https://upload.wikimedia.org/wikipedia/zh/b/b5/TOONMAX_logo.png",
+      "vod_play_url": "http://210.210.155.35/qwr9ew/s/s50/index2.m3u8"
+    },
+    {
+      "vod_name": "哈哈炫动卫视",
+      "vod_pic": "https://upload.wikimedia.org/wikipedia/zh/b/b5/TOONMAX_logo.png",
+      "vod_play_url": "http://210.210.155.35/qwr9ew/s/s50/index.m3u8"
+    },
+    {
+      "vod_name": "唯心電視",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/gt/weixin.png",
+      "vod_play_url": "http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8"
+    },
+    {
+      "vod_name": "唯心電視",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/gt/weixin.png",
+      "vod_play_url": "http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8"
+    },
+
+    {
+      "vod_name": "四川 Ⅰ 四川影视台",
+      "vod_pic": "None",
+      "vod_play_url": "http://scgctvshow.sctv.com/hdlive/sctv5/index.m3u8"
+    },
+    {
+      "vod_name": "四川 Ⅰ 四川新闻台",
+      "vod_pic": "None",
+      "vod_play_url": "http://scgctvshow.sctv.com/hdlive/sctv4/index.m3u8"
+    },
+    {
+      "vod_name": "四川 Ⅰ 四川经济台",
+      "vod_pic": "None",
+      "vod_play_url": "http://scgctvshow.sctv.com/hdlive/sctv3/index.m3u8"
+    },
+    {
+      "vod_name": "四川 Ⅰ 巴中综合台",
+      "vod_pic": "None",
+      "vod_play_url": "http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_246.flv"
+    },
+    {
+      "vod_name": "四川 Ⅰ 星空购物台",
+      "vod_pic": "None",
+      "vod_play_url": "http://scgctvshow.sctv.com/hdlive/sctv6/index.m3u8"
+    },
+    {
+      "vod_name": "四川 Ⅰ 泸州公共",
+      "vod_pic": "None",
+      "vod_play_url": "http://tvdrs.weblz.com.cn:8100/channellive/lztv2.flv"
+    },
+    {
+      "vod_name": "四川 Ⅰ 泸州科技",
+      "vod_pic": "None",
+      "vod_play_url": "http://tvdrs.weblz.com.cn:8100/channellive/lztv3.flv"
+    },
+    {
+      "vod_name": "四川 Ⅰ 泸州综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://tvdrs.weblz.com.cn:8100/channellive/lztv1.flv"
+    },
+    {
+      "vod_name": "四川 Ⅰ 绵阳公共",
+      "vod_pic": "None",
+      "vod_play_url": "http://live.826pc.com/mytv/live.php?id=3"
+    },
+    {
+      "vod_name": "四川 Ⅰ 绵阳科技",
+      "vod_pic": "None",
+      "vod_play_url": "http://live.826pc.com/mytv/live.php?id=2"
+    },
+    {
+      "vod_name": "四川 Ⅰ 绵阳综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://live.826pc.com/mytv/live.php?id=4"
+    },
+    {
+      "vod_name": "四川 Ⅰ 达州公共台",
+      "vod_pic": "None",
+      "vod_play_url": "http://m3u8.channellive.dzxw.net/cms/videos/nmip-media/channellive/channel36/playlist.m3u8"
+    },
+    {
+      "vod_name": "四川 Ⅰ 达州综合台",
+      "vod_pic": "None",
+      "vod_play_url": "http://m3u8.channellive.dzxw.net/cms/videos/nmip-media/channellive/channel35/playlist.m3u8"
+    },
+    {
+      "vod_name": "四川 Ⅰ 雅安公共",
+      "vod_pic": "None",
+      "vod_play_url": "http://flv.drs.tv.yatv.tv:8080/channellive/gonggong.flv"
+    },
+    {
+      "vod_name": "四川 Ⅰ 雅安综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://flv.drs.tv.yatv.tv:8080/channellive/xinwen.flv"
+    },
+    {
+      "vod_name": "四川公共",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/sheng/sctv9.png",
+      "vod_play_url": "http://scgctvshow.sctv.com/hdlive/sctv9/index.m3u8"
+    },
+    {
+      "vod_name": "四川卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201511/20/564ebb7c2f272.png",
+      "vod_play_url": "http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=3&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "四川卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201511/20/564ebb7c2f272.png",
+      "vod_play_url": "http://scgctvshow.sctv.com/scgc/sctv1deu5453w/1.m3u8"
+    },
+    {
+      "vod_name": "四川卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201511/20/564ebb7c2f272.png",
+      "vod_play_url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225733/index.m3u8"
+    },
+    {
+      "vod_name": "四川卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201511/20/564ebb7c2f272.png",
+      "vod_play_url": "http://183.207.248.71/gitv/live1/SCWS/SCWS"
+    },
+    {
+      "vod_name": "四川卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201511/20/564ebb7c2f272.png",
+      "vod_play_url": "http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221225814/index.m3u8"
+    },
+    {
+      "vod_name": "四川卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201511/20/564ebb7c2f272.png",
+      "vod_play_url": "http://112.25.48.68/live/program/live/scws/1300000/mnf.m3u8"
+    },
+    {
+      "vod_name": "四川卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201511/20/564ebb7c2f272.png",
+      "vod_play_url": "http://183.207.249.36/PLTV/4/224/3221225814/index.m3u8"
+    },
+    {
+      "vod_name": "四川卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201511/20/564ebb7c2f272.png",
+      "vod_play_url": "http://125.210.152.18:9090/live/SCWSHD_H265.m3u8"
+    },
+    {
+      "vod_name": "四川妇女儿童",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/sheng/sctv7.png",
+      "vod_play_url": "http://scgctvshow.sctv.com/hdlive/sctv7/index.m3u8"
+    },
+    {
+      "vod_name": "四川康巴卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://39.134.66.66/PLTV/88888888/224/3221225527/index.m3u8"
+    },
+    {
+      "vod_name": "四川文化旅游",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/sheng/sctv2.png",
+      "vod_play_url": "http://scgctvshow.sctv.com/hdlive/sctv2/index.m3u8"
+    },
+    {
+      "vod_name": "四平新闻综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream2.jlntv.cn/sptv/sd/live.m3u8"
+    },
+    {
+      "vod_name": "国外MTV",
+      "vod_pic": "None",
+      "vod_play_url": "https://vcndstv.teleosmedia.com/stream/dstv/sunburn/seglist_720p.m3u8"
+    },
+    {
+      "vod_name": "增城綜合",
+      "vod_pic": "None",
+      "vod_play_url": "http://202.168.164.38:8083/videos/live/19/27/QEQXMtU5AUpwo/QEQXMtU5AUpwo.m3u8"
+    },
+    {
+      "vod_name": "壹電視新聞台",
+      "vod_pic": "https://store-images.s-microsoft.com/image/apps.14454.9007199266706361.be7aa2de-7429-4e34-b9a4-eca9a55157c1.3eb6a511-ff23-46aa-bf3a-b8b7e7e5c808?mode=scale&q=90&h=270&w=270&background=%23FFFFFF",
+      "vod_play_url": "http://stream.nexttv.com.tw/n001/hd/live.m3u8"
+    },
+    {
+      "vod_name": "大冶一套",
+      "vod_pic": "None",
+      "vod_play_url": "http://dayeyun.live.tempsource.cjyun.org/videotmp/s10102-TC1T.m3u8"
+    },
+    {
+      "vod_name": "大冶二套",
+      "vod_pic": "None",
+      "vod_play_url": "http://dayeyun.live.tempsource.cjyun.org/videotmp/s10102-TC2T.m3u8"
+    },
+    {
+      "vod_name": "大悟综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://yunshangdawu.live.tempsource.cjyun.org/videotmp/s10129-dwzhpd.m3u8"
+    },
+    {
+      "vod_name": "大愛1",
+      "vod_pic": "http://www.daai.tv/images/logo.png",
+      "vod_play_url": "https://pulltv1.wanfudaluye.com/live/tv1.m3u8"
+    },
+    {
+      "vod_name": "大愛1",
+      "vod_pic": "http://www.daai.tv/images/logo.png",
+      "vod_play_url": "https://pulltv1.wanfudaluye.com/live/tv1.m3u8"
+    },
+    {
+      "vod_name": "大愛2",
+      "vod_pic": "https://www.cns.net.tw/web/upload/20141017171303RmzVY9Z.png",
+      "vod_play_url": "https://pulltv2.wanfudaluye.com/live/tv2.m3u8"
+    },
+    {
+      "vod_name": "大爱海外",
+      "vod_pic": "None",
+      "vod_play_url": "https://pulltv3.wanfudaluye.com/live/tv3.m3u8"
+    },
+    {
+      "vod_name": "大立電視",
+      "vod_pic": "http://www.dalitv.com.tw/img/LOGOn.png",
+      "vod_play_url": "http://www.dalitv.com.tw:4568/live/dali/index.m3u8"
+    },
+    {
+      "vod_name": "天津卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/TJWS.png",
+      "vod_play_url": "http://39.134.66.66/PLTV/88888888/224/3221225665/index.m3u8"
+    },
+    {
+      "vod_name": "天津卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/TJWS.png",
+      "vod_play_url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225698/index.m3u8"
+    },
+    {
+      "vod_name": "天津卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/TJWS.png",
+      "vod_play_url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225739/index.m3u8"
+    },
+    {
+      "vod_name": "天津卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/TJWS.png",
+      "vod_play_url": "http://112.25.48.68/live/program/live/tjwshd/4000000/mnf.m3u8"
+    },
+    {
+      "vod_name": "天津卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/TJWS.png",
+      "vod_play_url": "http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=37&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "天津卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/TJWS.png",
+      "vod_play_url": "http://117.169.120.140:8080/live/hdtianjinstv/.m3u8"
+    },
+    {
+      "vod_name": "天津卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/TJWS.png",
+      "vod_play_url": "http://183.207.248.71/cntv/live1/HD-2500k-1080P-tianjinstv/HD-2500k-1080P-tianjinstv"
+    },
+    {
+      "vod_name": "天津卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/TJWS.png",
+      "vod_play_url": "http://223.110.243.170/PLTV/3/224/3221227212/index.m3u8"
+    },
+    {
+      "vod_name": "天津卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/TJWS.png",
+      "vod_play_url": "http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221227382/index.m3u8"
+    },
+    {
+      "vod_name": "天津卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/TJWS.png",
+      "vod_play_url": "http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227407/index.m3u8"
+    },
+    {
+      "vod_name": "天津卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/TJWS.png",
+      "vod_play_url": "http://223.110.245.170/PLTV/3/224/3221227212/index.m3u8"
+    },
+    {
+      "vod_name": "天津卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/TJWS.png",
+      "vod_play_url": "http://183.207.249.12/PLTV/4/224/3221225808/index.m3u8"
+    },
+    {
+      "vod_name": "天津卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/TJWS.png",
+      "vod_play_url": "http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225808/index.m3u8"
+    },
+    {
+      "vod_name": "天津卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/TJWS.png",
+      "vod_play_url": "http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=37&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "奇妙電視",
+      "vod_pic": "None",
+      "vod_play_url": "http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8"
+    },
+    {
+      "vod_name": "奥视卫星",
+      "vod_pic": "https://parco-zh.github.io/demo/AOSHI.png",
+      "vod_play_url": "http://61.244.22.5/ch3/ch3.live/playlist.m3u8"
+    },
+    {
+      "vod_name": "女性时尚",
+      "vod_pic": "None",
+      "vod_play_url": "http://223.110.245.169/PLTV/4/224/3221227026/index.m3u8"
+    },
+    {
+      "vod_name": "如东新闻综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://live.rdxmt.com/channels/rudong/news/flv:sd/live"
+    },
+    {
+      "vod_name": "孝義新聞綜合",
+      "vod_pic": "None",
+      "vod_play_url": "http://app.xygdcm.com:2036/live/stream:xy1.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "孟州电视台",
+      "vod_pic": "None",
+      "vod_play_url": "http://live.dxhmt.cn:9081/tv/10883-1.m3u8"
+    },
+    {
+      "vod_name": "宁夏卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://39.134.65.162/PLTV/88888888/224/3221225579/index.m3u8"
+    },
+    {
+      "vod_name": "宁夏卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8"
+    },
+    {
+      "vod_name": "宁夏卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=120&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "宁夏卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=120&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "宁夏卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://117.169.120.140:8080/live/ningxiastv/.m3u8"
+    },
+    {
+      "vod_name": "宁夏卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://183.207.248.11/PLTV/4/224/3221225842/index.m3u8"
+    },
+    {
+      "vod_name": "宁夏卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225842/index.m3u8"
+    },
+    {
+      "vod_name": "宁夏卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://112.25.48.68/live/program/live/nxws/1300000/mnf.m3u8"
+    },
+    {
+      "vod_name": "宁夏卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://183.207.248.71/gitv/live1/G_NINGXIA/G_NINGXIA"
+    },
+
+    {
+      "vod_name": "宁波影视剧",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/ningbo.php?id=4"
+    },
+    {
+      "vod_name": "宁波教育科技",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/ningbo.php?id=6"
+    },
+    {
+      "vod_name": "宁波新闻综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/ningbo.php?id=1"
+    },
+    {
+      "vod_name": "宁波经济生活",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/ningbo.php?id=2"
+    },
+    {
+      "vod_name": "宁波都市文体",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/ningbo.php?id=3"
+    },
+    {
+      "vod_name": "安徽 Ⅰ 淮北公共",
+      "vod_pic": "None",
+      "vod_play_url": "http://live.0561rtv.cn/ggpd/hd/live.m3u8"
+    },
+    {
+      "vod_name": "安徽 Ⅰ 淮北综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://live.0561rtv.cn/xwzh/hd/live.m3u8"
+    },
+    {
+      "vod_name": "安徽 Ⅰ 郎溪综合台",
+      "vod_pic": "None",
+      "vod_play_url": "http://117.70.93.210:1935/live/xinwen/playlist.m3u8"
+    },
+    {
+      "vod_name": "安徽 Ⅰ 铜陵公共",
+      "vod_pic": "None",
+      "vod_play_url": "http://dstpush1.retalltech.com/app/stream2.m3u8"
+    },
+    {
+      "vod_name": "安徽 Ⅰ 铜陵综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://dstpush1.retalltech.com/app/stream1.m3u8"
+    },
+    {
+      "vod_name": "安徽人物",
+      "vod_pic": "http://www.tvyan.com/uploads/dianshi/ahrw.jpg",
+      "vod_play_url": "http://149.129.100.78/anhui.php?id=69"
+    },
+    {
+      "vod_name": "安徽公共",
+      "vod_pic": "http://www.tvyan.com/uploads/dianshi/ahgg.jpg",
+      "vod_play_url": "http://149.129.100.78/anhui.php?id=50"
+    },
+    {
+      "vod_name": "安徽农业科教",
+      "vod_pic": "http://www.tvyan.com/uploads/dianshi/ahkj.jpg",
+      "vod_play_url": "http://149.129.100.78/anhui.php?id=51"
+    },
+    {
+      "vod_name": "安徽卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201512/24/567b9d7479d83.png",
+      "vod_play_url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225691/index.m3u8"
+    },
+    {
+      "vod_name": "安徽卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201512/24/567b9d7479d83.png",
+      "vod_play_url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225737/index.m3u8"
+    },
+    {
+      "vod_name": "安徽卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201512/24/567b9d7479d83.png",
+      "vod_play_url": "http://112.25.48.68/live/program/live/ahwshd/4000000/mnf.m3u8"
+    },
+    {
+      "vod_name": "安徽卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201512/24/567b9d7479d83.png",
+      "vod_play_url": "http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=2&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "安徽卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201512/24/567b9d7479d83.png",
+      "vod_play_url": "http://183.207.249.15/PLTV/3/224/3221225634/index.m3u8"
+    },
+    {
+      "vod_name": "安徽卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201512/24/567b9d7479d83.png",
+      "vod_play_url": "http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221225634/index.m3u8"
+    },
+    {
+      "vod_name": "安徽卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201512/24/567b9d7479d83.png",
+      "vod_play_url": "http://223.110.254.203:6610/cntv/live1/HD-8000k-1080P-anhuistv/HD-8000k-1080P-anhuistv/1.m3u8"
+    },
+    {
+      "vod_name": "安徽卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201512/24/567b9d7479d83.png",
+      "vod_play_url": "http://183.207.248.71/gitv/live1/AHWS/AHWS"
+    },
+    {
+      "vod_name": "安徽卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201512/24/567b9d7479d83.png",
+      "vod_play_url": "http://183.207.249.5/PLTV/4/224/3221225800/index.m3u8"
+    },
+    {
+      "vod_name": "安徽卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201512/24/567b9d7479d83.png",
+      "vod_play_url": "http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221225800/index.m3u8"
+    },
+    {
+      "vod_name": "安徽卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201512/24/567b9d7479d83.png",
+      "vod_play_url": "http://183.207.248.71/cntv/live1/anhuistv/anhuistv"
+    },
+    {
+      "vod_name": "安徽卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201512/24/567b9d7479d83.png",
+      "vod_play_url": "http://zbbf2.ahtv.cn/live/749.m3u8"
+    },
+    {
+      "vod_name": "安徽小说评书广播",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream1.ahrtv.cn/xspsgb/sd/live.m3u8"
+    },
+    {
+      "vod_name": "安徽影视",
+      "vod_pic": "http://www.tvyan.com/uploads/dianshi/anhys.jpg",
+      "vod_play_url": "http://149.129.100.78/anhui.php?id=72"
+    },
+    {
+      "vod_name": "安徽戏曲广播",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream2.ahrtv.cn/xnxq/sd/live.m3u8"
+    },
+    {
+      "vod_name": "安徽新闻综合广播",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream2.ahrtv.cn/xnxw/sd/live.m3u8"
+    },
+    {
+      "vod_name": "安徽旅游广播",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream2.ahrtv.cn/lygb/sd/live.m3u8"
+    },
+
+    {
+      "vod_name": "完美游戏",
+      "vod_pic": "None",
+      "vod_play_url": "http://183.207.248.71/cntv/live1/wmyx/wmyx"
+    },
+    {
+      "vod_name": "宜兴新闻",
+      "vod_pic": "None",
+      "vod_play_url": "http://live-dft-hls-yf.jstv.com/live/yixing_xw/online.m3u8"
+    },
+    {
+      "vod_name": "宜兴电视紫砂",
+      "vod_pic": "None",
+      "vod_play_url": "http://live-dft-hls-yf.jstv.com/live/yixing_zs/online.m3u8"
+    },
+    {
+      "vod_name": "宜昌公共",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/yichang.php?id=ggpd"
+    },
+    {
+      "vod_name": "宜昌旅游生活",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/yichang.php?id=lysw"
+    },
+    {
+      "vod_name": "宜昌综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/yichang.php?id=zhpd"
+    },
+    {
+      "vod_name": "宜章新闻综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://hnyz.chinashadt.com:2036/live/stream:tv1.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "宜章社会法制",
+      "vod_pic": "None",
+      "vod_play_url": "http://hnyz.chinashadt.com:2036/live/stream:tv2.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "家庭影院",
+      "vod_pic": "None",
+      "vod_play_url": "http://39.134.19.153/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8"
+    },
+    {
+      "vod_name": "家庭理财",
+      "vod_pic": "None",
+      "vod_play_url": "http://223.110.245.139/PLTV/4/224/3221227011/index.m3u8"
+    },
+    {
+      "vod_name": "家有购物",
+      "vod_pic": "None",
+      "vod_play_url": "http://183.207.248.71/cntv/live1/SD-1500k-576P-jiayougw/SD-1500k-576P-jiayougw"
+    },
+    {
+      "vod_name": "宿州公共",
+      "vod_pic": "None",
+      "vod_play_url": "http://live.ahsz.tv/video/s10001-ggpd/index.m3u8"
+    },
+    {
+      "vod_name": "宿州新闻综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://live.ahsz.tv/video/s10001-szzh/index.m3u8"
+    },
+    {
+      "vod_name": "宿州科教",
+      "vod_pic": "http://www.66zhibo.net/d/file/2018/0711/f91966206d646e5cc94ca9e597b855ec.jpg",
+      "vod_play_url": "http://live.ahsz.tv/video/s10001-kxjy/index.m3u8"
+    },
+    {
+      "vod_name": "宿迁公共",
+      "vod_pic": "None",
+      "vod_play_url": "http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221226939/index.m3u8"
+    },
+    {
+      "vod_name": "山东 Ⅰ 烟台影视台",
+      "vod_pic": "None",
+      "vod_play_url": "http://player.200877926.top/hogejump/yantai.php?id=5"
+    },
+    {
+      "vod_name": "山东 Ⅰ 烟台综合台",
+      "vod_pic": "None",
+      "vod_play_url": "http://player.200877926.top/hogejump/yantai.php?id=2"
+    },
+    {
+      "vod_name": "山东 Ⅰ 烟台综合台",
+      "vod_pic": "None",
+      "vod_play_url": "http://player.200877926.top/hogejump/yantai.php?id=3"
+    },
+    {
+      "vod_name": "山东 Ⅰ 烟台综合台",
+      "vod_pic": "None",
+      "vod_play_url": "http://player.200877926.top/hogejump/yantai.php?id=4"
+    },
+
+    {
+      "vod_name": "山东农科",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/qt/sd_nongke.png",
+      "vod_play_url": "http://livealone302.iqilu.com/iqilu/nkpd.m3u8"
+    },
+    {
+      "vod_name": "山东卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201511/20/564eb79891a97.png",
+      "vod_play_url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225697/index.m3u8"
+    },
+    {
+      "vod_name": "山东卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201511/20/564eb79891a97.png",
+      "vod_play_url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225738/index.m3u8"
+    },
+    {
+      "vod_name": "山东卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201511/20/564eb79891a97.png",
+      "vod_play_url": "http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=39&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "山东卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201511/20/564eb79891a97.png",
+      "vod_play_url": "http://117.169.120.140:8080/live/hdshandongstv/.m3u8"
+    },
+    {
+      "vod_name": "山东卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201511/20/564eb79891a97.png",
+      "vod_play_url": "http://183.207.248.71/cntv/live1/HD-2500k-1080P-shandongstv/HD-2500k-1080P-shandongstv"
+    },
+    {
+      "vod_name": "山东卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201511/20/564eb79891a97.png",
+      "vod_play_url": "http://223.110.243.171/PLTV/3/224/3221227258/index.m3u8"
+    },
+    {
+      "vod_name": "山东卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201511/20/564eb79891a97.png",
+      "vod_play_url": "http://223.110.245.139/PLTV/4/224/3221227448/index.m3u8"
+    },
+    {
+      "vod_name": "山东卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201511/20/564eb79891a97.png",
+      "vod_play_url": "http://223.110.254.207:6610/cntv/live1/HD-2500k-1080P-shandongstv/HD-2500k-1080P-shandongstv/1.m3u8"
+    },
+    {
+      "vod_name": "山东卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201511/20/564eb79891a97.png",
+      "vod_play_url": "http://ott.js.chinamobile.com/PLTV/3/224/3221227258/index.m3u8"
+    },
+    {
+      "vod_name": "山东卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201511/20/564eb79891a97.png",
+      "vod_play_url": "http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=39&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "山东卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201511/20/564eb79891a97.png",
+      "vod_play_url": "http://125.210.152.18:9090/live/SDWSHD_H265.m3u8"
+    },
+    {
+      "vod_name": "山东卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201511/20/564eb79891a97.png",
+      "vod_play_url": "http://183.207.248.71/gitv/live1/SDWS/SDWS"
+    },
+    {
+      "vod_name": "山东卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201511/20/564eb79891a97.png",
+      "vod_play_url": "http://183.207.249.7/PLTV/4/224/3221225804/index.m3u8"
+    },
+    {
+      "vod_name": "山东卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201511/20/564eb79891a97.png",
+      "vod_play_url": "http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225804/index.m3u8"
+    },
+
+    {
+      "vod_name": "山东居家购物",
+      "vod_pic": "None",
+      "vod_play_url": "http://livealone302.iqilu.com/iqilu/gwpd.m3u8"
+    },
+    {
+      "vod_name": "山东影视",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/qt/sd_yingshi.png",
+      "vod_play_url": "http://livealone302.iqilu.com/iqilu/yspd.m3u8"
+    },
+    {
+      "vod_name": "山东教育",
+      "vod_pic": "None",
+      "vod_play_url": "http://39.134.66.66/PLTV/88888888/224/3221225558/index.m3u8"
+    },
+    {
+      "vod_name": "山东新闻",
+      "vod_pic": "None",
+      "vod_play_url": "http://livealone302.iqilu.com/iqilu/ggpd.m3u8"
+    },
+    {
+      "vod_name": "山东生活",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/qt/sd_shenghuo.png",
+      "vod_play_url": "http://livealone302.iqilu.com/iqilu/shpd.m3u8"
+    },
+    {
+      "vod_name": "山东综艺",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/qt/sd_zongyi.png",
+      "vod_play_url": "http://livealone302.iqilu.com/iqilu/zypd.m3u8"
+    },
+    {
+      "vod_name": "山东齐鲁",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/qt/sd_qilu.png",
+      "vod_play_url": "http://livealone302.iqilu.com/iqilu/qlpd.m3u8"
+    },
+    {
+      "vod_name": "山西 Ⅰ 朔州新闻台",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream.sxsztv.com/live4/sd/live.m3u8"
+    },
+    {
+      "vod_name": "山西优购物",
+      "vod_pic": "None",
+      "vod_play_url": "http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=55&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "山西公共",
+      "vod_pic": "http://app.sxrtv.com/images/2019/5/15/20195151557897422066_33_t1080.jpg",
+      "vod_play_url": "http://149.129.100.78/tv.php?id=sxgg"
+    },
+    {
+      "vod_name": "山西卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225730/index.m3u8"
+    },
+    {
+      "vod_name": "山西卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=144&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "山西卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://117.169.120.140:8080/live/shanxistv/.m3u8"
+    },
+    {
+      "vod_name": "山西卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://125.210.152.10:8060/live/SXWS.m3u8"
+    },
+    {
+      "vod_name": "山西影视",
+      "vod_pic": "http://app.sxrtv.com/images/2019/5/15/20195151557897361061_33_t1080.jpg",
+      "vod_play_url": "http://149.129.100.78/tv.php?id=sxys"
+    },
+    {
+      "vod_name": "山西社会与法治",
+      "vod_pic": "https://apphhplushttps.sxrtv.com/images/2020/12/31/202012311609402077716_90.jpg",
+      "vod_play_url": "http://149.129.100.78/tv.php?id=sxkj"
+    },
+    {
+      "vod_name": "山西经济与科技",
+      "vod_pic": "https://apphhplushttps.sxrtv.com/images/2020/12/31/202012311609402311324_90.jpg",
+      "vod_play_url": "http://149.129.100.78/tv.php?id=sxjjzx"
+    },
+    {
+      "vod_name": "岭南戏曲",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/guangdong.php?id=15"
+    },
+    {
+      "vod_name": "岳西圖文頻道",
+      "vod_pic": "None",
+      "vod_play_url": "http://58.243.4.22:1935/live/tuwen/playlist.m3u8"
+    },
+    {
+      "vod_name": "岳西影視頻道",
+      "vod_pic": "None",
+      "vod_play_url": "http://58.243.4.22:1935/live/yingshi/playlist.m3u8"
+    },
+    {
+      "vod_name": "岳西綜合頻道",
+      "vod_pic": "None",
+      "vod_play_url": "http://58.243.4.22:1935/live/zonghe/playlist.m3u8"
+    },
+    {
+      "vod_name": "岳阳公共",
+      "vod_pic": "None",
+      "vod_play_url": "http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8?BVUUID=C236454D-5355-2F5F-FA96-1887C72E55CE&auth=654837809071524@615@2E9A5FD0B225B012E3178551CF3754A8"
+    },
+    {
+      "vod_name": "岷县电视台",
+      "vod_pic": "https://upload.wikimedia.org/wikipedia/zh/2/28/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png",
+      "vod_play_url": "http://117.156.28.119/270000001111/1110000130/index.m3u8"
+    },
+    {
+      "vod_name": "嵊州综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8"
+    },
+    {
+      "vod_name": "已下线",
+      "vod_pic": "None",
+      "vod_play_url": "http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=44&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "巴中公共",
+      "vod_pic": "None",
+      "vod_play_url": "http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_247.m3u8"
+    },
+    {
+      "vod_name": "巴中公共",
+      "vod_pic": "None",
+      "vod_play_url": "http://m-tvlmedia.public.bcs.ysten.com/live/hddongfangstv/1.m3u8"
+    },
+    {
+      "vod_name": "巴中综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_246.m3u8"
+    },
+    {
+      "vod_name": "平乡电视台",
+      "vod_pic": "http://www.tvyan.com/uploads/dianshi/pingxiangtai.jpg",
+      "vod_play_url": "http://hbpx.chinashadt.com:2036/live/px1.stream/playlist.m3u8"
+    },
+
+
+
+    {
+      "vod_name": "广水新闻综合",
+      "vod_pic": "http://ku.90sjimg.com/element_pic/17/12/31/2ec189f5167bd017e47acd441800487b.jpg",
+      "vod_play_url": "http://guangshui.live.tempsource.cjyun.org/videotmp/s10146-GSXW.m3u8"
+    },
+    {
+      "vod_name": "广视网",
+      "vod_pic": "None",
+      "vod_play_url": "http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=11&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "广西卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8"
+    },
+    {
+      "vod_name": "广西卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=138&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "康巴卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://scgctvshow.sctv.com/hdlive/kangba/1.m3u8"
+    },
+    {
+      "vod_name": "康巴卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://223.110.245.139/PLTV/4/224/3221227008/index.m3u8"
+    },
+    {
+      "vod_name": "延安1台",
+      "vod_pic": "http://static2.tvzhe.com/channel/logo/YA1.jpg",
+      "vod_play_url": "http://stream2.liveyun.hoge.cn/YATV1/sd/live.m3u8"
+    },
+    {
+      "vod_name": "延安2台",
+      "vod_pic": "http://static2.tvzhe.com/channel/logo/YA2.jpg",
+      "vod_play_url": "http://stream2.liveyun.hoge.cn/YATV2/sd/live.m3u8"
+    },
+    {
+      "vod_name": "延边卫视",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png",
+      "vod_play_url": "http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8"
+    },
+    {
+      "vod_name": "延边卫视",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png",
+      "vod_play_url": "http://223.110.245.139/PLTV/4/224/3221227002/index.m3u8"
+    },
+    {
+      "vod_name": "延边卫视",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png",
+      "vod_play_url": "http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227002/index.m3u8"
+    },
+    {
+      "vod_name": "延边卫视",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png",
+      "vod_play_url": "http://ott.js.chinamobile.com/PLTV/3/224/3221227002/index.m3u8"
+    },
+    {
+      "vod_name": "延边新闻综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream2.jlntv.cn/jlyb/sd/live.m3u8"
+    },
+    {
+      "vod_name": "建安电视台",
+      "vod_pic": "None",
+      "vod_play_url": "http://live.dxhmt.cn:9081/tv/11003-1.m3u8"
+    },
+    {
+      "vod_name": "开州综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://kaixianlive.cbg.cn:10345/1.m3u8"
+    },
+    {
+      "vod_name": "弈坛春秋",
+      "vod_pic": "None",
+      "vod_play_url": "http://223.110.245.139/PLTV/4/224/3221227031/index.m3u8"
+    },
+    {
+      "vod_name": "张家口一套",
+      "vod_pic": "None",
+      "vod_play_url": "http://nlive.zjkgdcs.com:8091/live/xwzhpd.m3u8"
+    },
+    {
+      "vod_name": "张家港新闻综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8"
+    },
+    {
+      "vod_name": "张家港社会生活",
+      "vod_pic": "None",
+      "vod_play_url": "http://3gvod.zjgonline.com.cn:1935/live/shehuishenghuo2/playlist.m3u8"
+    },
+    {
+      "vod_name": "张家界1",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream.zjjrtv.com/zjjtv1/hd/live.m3u8"
+    },
+    {
+      "vod_name": "张家界2台",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream.zjjrtv.com/zjjtv2/hd/live.m3u8"
+    },
+    {
+      "vod_name": "彭水文化旅游",
+      "vod_pic": "None",
+      "vod_play_url": "http://pengshuilive.cbg.cn/pengshui02.m3u8"
+    },
+    {
+      "vod_name": "彭水新闻综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://pengshuilive.cbg.cn/pengshui01.m3u8"
+    },
+    {
+      "vod_name": "徐州-1",
+      "vod_pic": "None",
+      "vod_play_url": "http://183.207.249.15/PLTV/3/224/3221225945/index.m3u8"
+    },
+    {
+      "vod_name": "徐州-3",
+      "vod_pic": "None",
+      "vod_play_url": "http://183.207.249.7/PLTV/3/224/3221225949/index.m3u8"
+    },
+    {
+      "vod_name": "徐州-3",
+      "vod_pic": "None",
+      "vod_play_url": "http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225949/index.m3u8"
+    },
+    {
+      "vod_name": "徐州-4",
+      "vod_pic": "None",
+      "vod_play_url": "http://183.207.249.15/PLTV/3/224/3221225951/index.m3u8"
+    },
+    {
+      "vod_name": "徐州公共頻道",
+      "vod_pic": "None",
+      "vod_play_url": "http://183.207.248.11/PLTV/3/224/3221225951/index.m3u8"
+    },
+    {
+      "vod_name": "徐州公共頻道",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream1.huaihai.tv/ggpd/playlist.m3u8"
+    },
+    {
+      "vod_name": "徐州影视",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream1.huaihai.tv/wyys/playlist.m3u8"
+    },
+    {
+      "vod_name": "徐州新聞綜合",
+      "vod_pic": "https://i.imgur.com/LcJZVV5.png",
+      "vod_play_url": "http://183.207.248.11/PLTV/3/224/3221225945/index.m3u8"
+    },
+    {
+      "vod_name": "徐州新聞綜合",
+      "vod_pic": "https://i.imgur.com/LcJZVV5.png",
+      "vod_play_url": "http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221225945/index.m3u8"
+    },
+    {
+      "vod_name": "徐州新聞綜合",
+      "vod_pic": "https://i.imgur.com/LcJZVV5.png",
+      "vod_play_url": "http://stream1.huaihai.tv/xwzh/playlist.m3u8"
+    },
+    {
+      "vod_name": "徐州生活",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream1.huaihai.tv/jjsh/playlist.m3u8"
+    },
+    {
+      "vod_name": "徐州經濟生活",
+      "vod_pic": "https://i.imgur.com/LcJZVV5.png",
+      "vod_play_url": "http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8"
+    },
+    {
+      "vod_name": "徐州贾汪旅游",
+      "vod_pic": "None",
+      "vod_play_url": "http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221227389/index.m3u8"
+    },
+    {
+      "vod_name": "德州公共",
+      "vod_pic": "None",
+      "vod_play_url": "http://video.dztv.tv:1935/live/dzgg_gq/playlist.m3u8"
+    },
+    {
+      "vod_name": "德州公共",
+      "vod_pic": "None",
+      "vod_play_url": "http://video.dztv.tv:1935/live/dzgg_bq/playlist.m3u8"
+    },
+    {
+      "vod_name": "德州公共",
+      "vod_pic": "None",
+      "vod_play_url": "http://video.dztv.tv:1935/live/dzgg_sj/playlist.m3u8"
+    },
+    {
+      "vod_name": "德州图文",
+      "vod_pic": "None",
+      "vod_play_url": "http://video.dztv.tv:1935/live/dztw_gq/playlist.m3u8"
+    },
+    {
+      "vod_name": "德州图文",
+      "vod_pic": "None",
+      "vod_play_url": "http://video.dztv.tv:1935/live/dztw_bq/playlist.m3u8"
+    },
+    {
+      "vod_name": "德州图文",
+      "vod_pic": "None",
+      "vod_play_url": "http://video.dztv.tv:1935/live/dztw_sj/playlist.m3u8"
+    },
+    {
+      "vod_name": "德州新闻",
+      "vod_pic": "None",
+      "vod_play_url": "http://video.dztv.tv:1935/live/xwzh_gq/playlist.m3u8"
+    },
+    {
+      "vod_name": "德州新闻",
+      "vod_pic": "None",
+      "vod_play_url": "http://video.dztv.tv:1935/live/xwzh_bq/playlist.m3u8"
+    },
+    {
+      "vod_name": "德州新闻",
+      "vod_pic": "None",
+      "vod_play_url": "http://video.dztv.tv:1935/live/xwzh_sj/playlist.m3u8"
+    },
+    {
+      "vod_name": "德州都市",
+      "vod_pic": "https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=14e4b49cc03d70cf4cfaad0bc0e7b63d/f31fbe096b63f62400badfa68e44ebf81b4ca3b4.jpg",
+      "vod_play_url": "http://video.dztv.tv:1935/live/dspd_gq/playlist.m3u8"
+    },
+    {
+      "vod_name": "心约之声公益广播",
+      "vod_pic": "None",
+      "vod_play_url": "http://4521.hlsplay.aodianyun.com/xyzs/stream.m3u8"
+    },
+    {
+      "vod_name": "忍者神龟",
+      "vod_pic": "None",
+      "vod_play_url": "http://www.alibabapictures.com/movies/shenggui/poyingerchu.mp4"
+    },
+    {
+      "vod_name": "忠县文旅",
+      "vod_pic": "None",
+      "vod_play_url": "http://qxlmlive.cbg.cn:1935/app_2/_definst_/ls_36.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "忠县综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://qxlmlive.cbg.cn:1935/app_2/_definst_/ls_35.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "怀旧经典台",
+      "vod_pic": "None",
+      "vod_play_url": "http://hls.haokan.bdstatic.com/haokan/stream_bduid_1868968677_0.m3u8"
+    },
+    {
+      "vod_name": "惠州公共",
+      "vod_pic": "None",
+      "vod_play_url": "http://livehuiz.chinamcache.com/live/zb02.m3u8"
+    },
+    {
+      "vod_name": "惠州新闻综合",
+      "vod_pic": "http://www.tvyan.com/uploads/dianshi/hztv1.jpg",
+      "vod_play_url": "http://livehuiz.chinamcache.com/live/zb01.m3u8"
+    },
+    {
+      "vod_name": "惠州新闻综合",
+      "vod_pic": "http://www.tvyan.com/uploads/dianshi/hztv1.jpg",
+      "vod_play_url": "http://dslive.grtn.cn/hzzh/sd/live.m3u8"
+    },
+    {
+      "vod_name": "成都公共",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/sheng/cdtv5.png",
+      "vod_play_url": "http://149.129.100.78/cdtv.php?id=5"
+    },
+    {
+      "vod_name": "成都大熊猫",
+      "vod_pic": "None",
+      "vod_play_url": "https://gcbsc.v.live.baishancdnx.cn/gc/xiongmao03_1/index.m3u8?contentid=2820180516001"
+    },
+
+    {
+      "vod_name": "成都影视",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/sheng/cdtv4.png",
+      "vod_play_url": "http://149.129.100.78/cdtv.php?id=45"
+    },
+    {
+      "vod_name": "成都新闻综合",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/sheng/cdtv1.png",
+      "vod_play_url": "http://149.129.100.78/cdtv.php?id=1"
+    },
+    {
+      "vod_name": "成都经济",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/sheng/cdtv2.png",
+      "vod_play_url": "http://149.129.100.78/cdtv.php?id=2"
+    },
+    {
+      "vod_name": "成都都市",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/sheng/cdtv3.png",
+      "vod_play_url": "http://149.129.100.78/cdtv.php?id=3"
+    },
+    {
+      "vod_name": "房山电视台",
+      "vod_pic": "http://img.funhillrm.com/201912173520409e01fadc9c2811d72ff26f62ef.png",
+      "vod_play_url": "https://live.funhillrm.com/2/playlist.m3u8"
+    },
+    {
+      "vod_name": "扬州公共",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/yangzhou.php?id=236"
+    },
+    {
+      "vod_name": "扬州教育",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/yangzhou.php?id=291"
+    },
+    {
+      "vod_name": "抚州公共",
+      "vod_pic": "None",
+      "vod_play_url": "http://111.75.179.195:30767/video/live_vide2.m3u8"
+    },
+    {
+      "vod_name": "揭阳综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://dslive.grtn.cn/jyzh/playlist.m3u8"
+    },
+    {
+      "vod_name": "撫州綜合頻道",
+      "vod_pic": "None",
+      "vod_play_url": "http://111.75.179.195:30767/video/live_vide.m3u8"
+    },
+    {
+      "vod_name": "敦煌电视台",
+      "vod_pic": "http://www.tvyan.com/uploads/dianshi/dunhuangtai.jpg",
+      "vod_play_url": "http://117.156.28.119/270000001111/1110000028/index.m3u8"
+    },
+    {
+      "vod_name": "文山综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8"
+    },
+    {
+      "vod_name": "文水新聞綜合",
+      "vod_pic": "None",
+      "vod_play_url": "http://sxws.chinashadt.com:1938/live/tv10.stream_360p/playlist.m3u8"
+    },
+    {
+      "vod_name": "文水時尚秀",
+      "vod_pic": "None",
+      "vod_play_url": "http://sxws.chinashadt.com:1938/live/tv11.stream_360p/playlist.m3u8"
+    },
+
+    {
+      "vod_name": "斗鱼车评",
+      "vod_pic": "None",
+      "vod_play_url": "http://tx2play1.douyucdn.cn/live/321987r8e6tCsPR_4000.xs?uuid="
+    },
+    {
+      "vod_name": "新唐人-美西",
+      "vod_pic": "None",
+      "vod_play_url": "http://live.ntdimg.com/uwlive520/playlist.m3u8"
+    },
+    {
+      "vod_name": "新唐人亚太臺",
+      "vod_pic": "https://www.ntdtv.com/assets/themes/ntd/images/logo/logo_ntd.png",
+      "vod_play_url": "https://live.ntdimg.com/aplive200/playlist.m3u8"
+    },
+    {
+      "vod_name": "新唐人加东臺",
+      "vod_pic": "https://www.ntdtv.com/assets/themes/ntd/images/logo/logo_ntd.png",
+      "vod_play_url": "https://live.ntdimg.com/mllive860/playlist.m3u8"
+    },
+    {
+      "vod_name": "新唐人加西臺",
+      "vod_pic": "https://www.ntdtv.com/assets/themes/ntd/images/logo/logo_ntd.png",
+      "vod_play_url": "https://live.ntdimg.com/cwlive220/playlist.m3u8"
+    },
+    {
+      "vod_name": "新唐人旧金山臺",
+      "vod_pic": "https://www.ntdtv.com/assets/themes/ntd/images/logo/logo_ntd.png",
+      "vod_play_url": "https://live.ntdimg.com/sflive990/playlist.m3u8"
+    },
+    {
+      "vod_name": "新唐人美东臺",
+      "vod_pic": "https://www.ntdtv.com/assets/themes/ntd/images/logo/logo_ntd.png",
+      "vod_play_url": "https://live.ntdimg.com/live400/playlist.m3u8"
+    },
+    {
+      "vod_name": "新唐人美西臺",
+      "vod_pic": "https://www.ntdtv.com/assets/themes/ntd/images/logo/logo_ntd.png",
+      "vod_play_url": "https://live.ntdimg.com/uwlive990/playlist.m3u8"
+    },
+    {
+      "vod_name": "新昌休闲影视",
+      "vod_pic": "None",
+      "vod_play_url": "http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8"
+    },
+    {
+      "vod_name": "新昌新聞綜合",
+      "vod_pic": "None",
+      "vod_play_url": "http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8"
+    },
+    {
+      "vod_name": "新泰乡村党建",
+      "vod_pic": "None",
+      "vod_play_url": "http://live.xtgdw.cn:1935/live/xtxc/playlist.m3u8"
+    },
+    {
+      "vod_name": "新泰影視頻道",
+      "vod_pic": "None",
+      "vod_play_url": "http://111.17.214.4:1935/live/xtys/playlist.m3u8"
+    },
+    {
+      "vod_name": "新泰影視頻道",
+      "vod_pic": "None",
+      "vod_play_url": "http://live.xtgdw.cn:1935/live/xtys/playlist.m3u8"
+    },
+    {
+      "vod_name": "新泰生活",
+      "vod_pic": "None",
+      "vod_play_url": "http://111.17.214.4:1935/live/xtsh/playlist.m3u8"
+    },
+    {
+      "vod_name": "新泰生活",
+      "vod_pic": "None",
+      "vod_play_url": "http://live.xtgdw.cn:1935/live/xtsh/playlist.m3u8"
+    },
+    {
+      "vod_name": "新泰综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://111.17.214.4:1935/live/xtzh/playlist.m3u8"
+    },
+    {
+      "vod_name": "新泰综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://live.xtgdw.cn:1935/live/xtzh/playlist.m3u8"
+    },
+    {
+      "vod_name": "新泰鄉村黨建",
+      "vod_pic": "None",
+      "vod_play_url": "http://111.17.214.4:1935/live/xtxc/playlist.m3u8"
+    },
+    {
+      "vod_name": "新疆兵团卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=50&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "新疆卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://39.134.66.66/PLTV/88888888/224/3221225582/index.m3u8"
+    },
+    {
+      "vod_name": "新疆卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225725/index.m3u8"
+    },
+    {
+      "vod_name": "新疆卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=122&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "新疆卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://183.207.248.71/cntv/live1/xinjiangstv/xinjiangstv"
+    },
+    {
+      "vod_name": "新疆卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://183.207.248.71/gitv/live1/G_XINJIANG/G_XINJIANG"
+    },
+    {
+      "vod_name": "新疆卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://183.207.249.15/PLTV/3/224/3221225523/index.m3u8"
+    },
+    {
+      "vod_name": "新疆卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://112.25.48.68/live/program/live/xjws/1300000/mnf.m3u8"
+    },
+    {
+      "vod_name": "新疆卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://223.110.243.136/PLTV/3/224/3221225523/index.m3u8"
+    },
+    {
+      "vod_name": "新疆卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://m-tvlmedia.public.bcs.ysten.com/live/xinjiangstv/1.m3u8"
+    },
+    {
+      "vod_name": "新疆哈语综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://livehyw.sobeycache.com/xjtvs/zb3.m3u8?auth_key=1807150116-0-0-ee46da0e36aa0d170240c1102e8c8e47"
+    },
+
+    {
+      "vod_name": "新疆汉语信息服务",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/ws/xinjiang.png",
+      "vod_play_url": "http://livehyw5.chinamcache.com/hyw/zb11.m3u8"
+    },
+    {
+      "vod_name": "新疆汉语综艺",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/ws/xinjiang.png",
+      "vod_play_url": "http://livehyw5.chinamcache.com/hyw/zb04.m3u8"
+    },
+    {
+      "vod_name": "新郑综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://live.dxhmt.cn:9081/tv/10184-1.m3u8"
+    },
+    {
+      "vod_name": "无锡娱乐",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/wuxi.php?id=wxtv2&type=tv"
+    },
+    {
+      "vod_name": "无锡新闻综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/wuxi.php?id=wxtv1&type=tv"
+    },
+    {
+      "vod_name": "无锡生活",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/wuxi.php?id=wxtv4&type=tv"
+    },
+    {
+      "vod_name": "无锡经济",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/wuxi.php?id=wxtv5&type=tv"
+    },
+    {
+      "vod_name": "无锡都市资讯",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/wuxi.php?id=wxtv3&type=tv"
+    },
+    {
+      "vod_name": "日本全天新聞",
+      "vod_pic": "https://parco-zh.github.io/demo/riben24.png",
+      "vod_play_url": "https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8"
+    },
+    {
+      "vod_name": "旺苍新闻",
+      "vod_pic": "None",
+      "vod_play_url": "http://3g.dzsm.com/streamer/gycttv.m3u8"
+    },
+    {
+      "vod_name": "明珠台",
+      "vod_pic": "None",
+      "vod_play_url": "http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=12&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "星空卫视",
+      "vod_pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/XingXong.svg/300px-XingXong.svg.png",
+      "vod_play_url": "http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=233&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "星空卫视",
+      "vod_pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/XingXong.svg/300px-XingXong.svg.png",
+      "vod_play_url": "http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=234&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "星空卫视",
+      "vod_pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/XingXong.svg/300px-XingXong.svg.png",
+      "vod_play_url": "http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=233&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "星空卫视",
+      "vod_pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/XingXong.svg/300px-XingXong.svg.png",
+      "vod_play_url": "http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=234&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "星空衛視",
+      "vod_pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/XingXong.svg/300px-XingXong.svg.png",
+      "vod_play_url": "http://218.202.220.2:5000/nn_live.ts?id=STARTV"
+    },
+    {
+      "vod_name": "星空衛視",
+      "vod_pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/XingXong.svg/300px-XingXong.svg.png",
+      "vod_play_url": "http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=234&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8"
+    },
+    {
+      "vod_name": "星空衛視",
+      "vod_pic": "https://upload.wikimedia.org/wikipedia/zh/thumb/8/8d/Xing_Kong_Wei_Shi.jpg/250px-Xing_Kong_Wei_Shi.jpg",
+      "vod_play_url": "rtmp://58.200.131.2:1935/livetv/startv"
+    },
+    {
+      "vod_name": "晋中公共",
+      "vod_pic": "None",
+      "vod_play_url": "http://jzlive.jztvnews.com:90/live/jzgg.m3u8"
+    },
+    {
+      "vod_name": "晋中综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://jzlive.jztvnews.com:90/live/jzzh.m3u8"
+    },
+    {
+      "vod_name": "晋州综合",
+      "vod_pic": "http://www.nettv.live/uploads/18/1-1PG421013KU.jpg",
+      "vod_play_url": "http://zhjz.chinashadt.com:2036/live/1.stream/chunklist.m3u8"
+    },
+    {
+      "vod_name": "景县电视一套",
+      "vod_pic": "None",
+      "vod_play_url": "http://hbjx.chinashadt.com:1935/live/jx1.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "景县电视一套",
+      "vod_pic": "None",
+      "vod_play_url": "http://hbjx.chinashadt.com:1935/live/stream:jx1.stream_360p/playlist.m3u8"
+    },
+    {
+      "vod_name": "景县电视二套",
+      "vod_pic": "None",
+      "vod_play_url": "http://hbjx.chinashadt.com:1935/live/jx2.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "景县电视二套",
+      "vod_pic": "None",
+      "vod_play_url": "http://hbjx.chinashadt.com:1935/live/stream:jx2.stream_360p/playlist.m3u8"
+    },
+    {
+      "vod_name": "智慧教育",
+      "vod_pic": "None",
+      "vod_play_url": "http://111.63.117.13:6060/030000001000/G_CETV-4/G_CETV-4.m3u8"
+    },
+    {
+      "vod_name": "朔州1",
+      "vod_pic": "http://www.tvyan.com/uploads/dianshi/shuozhou.jpg",
+      "vod_play_url": "http://stream.sxsztv.com/live1/playlist.m3u8"
+    },
+    {
+      "vod_name": "朔州2",
+      "vod_pic": "http://www.tvyan.com/uploads/dianshi/shuozhou.jpg",
+      "vod_play_url": "http://stream.sxsztv.com/live2/playlist.m3u8"
+    },
+    {
+      "vod_name": "東光一套",
+      "vod_pic": "None",
+      "vod_play_url": "http://hbdg.chinashadt.com:1936/live/stream:dgtv1.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "東光二套",
+      "vod_pic": "None",
+      "vod_play_url": "http://hbdg.chinashadt.com:1936/live/stream:dgtv2.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "東光綜藝",
+      "vod_pic": "None",
+      "vod_play_url": "http://hbdg.chinashadt.com:1936/live/stream:dgzy.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "東森新聞",
+      "vod_pic": "https://img.news.ebc.net.tw/EbcNews/logoes/pc_logo.png",
+      "vod_play_url": "http://seb.sason.top/sc/dsxw_fhd.m3u8"
+    },
+    {
+      "vod_name": "東森財經新聞",
+      "vod_pic": "https://img-fnc.ebc.net.tw/EbcFnc/logoes/pc_logo.png",
+      "vod_play_url": "http://seb.sason.top/sc/dscjxw_fhd.m3u8"
+    },
+    {
+      "vod_name": "松原新闻综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream2.jlntv.cn/sytv/sd/live.m3u8"
+    },
+    {
+      "vod_name": "枣庄公共",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream.zzgd.tv/3/sd/live.m3u8"
+    },
+    {
+      "vod_name": "枣庄教育",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream.zzgd.tv/2/sd/live.m3u8"
+    },
+    {
+      "vod_name": "枣庄新闻综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream.zzgd.tv/1/sd/live.m3u8"
+    },
+    {
+      "vod_name": "柯桥时尚",
+      "vod_pic": "None",
+      "vod_play_url": "http://live.scbtv.cn/hls/qfc/index.m3u8"
+    },
+    {
+      "vod_name": "柯桥综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://live.scbtv.cn/hls/news/index.m3u8"
+    },
+    {
+      "vod_name": "栖霞新闻",
+      "vod_pic": "None",
+      "vod_play_url": "http://pili-live-hls.140.i2863.com/i2863-140/live_140_236499.m3u8"
+    },
+    {
+      "vod_name": "梁平综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://qxlmlive.cbg.cn:1935/app_2/ls_44.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "梅州综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://dslive.grtn.cn/mzzh/playlist.m3u8"
+    },
+    {
+      "vod_name": "榆树综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream.zhystv.com/yset/sd/live.m3u8"
+    },
+    {
+      "vod_name": "榆樹綜藝頻道",
+      "vod_pic": "https://i.imgur.com/PDzWK3L.png",
+      "vod_play_url": "http://stream.zhystv.com/ysyt/sd/live.m3u8"
+    },
+    {
+      "vod_name": "横山综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream.hsqtv.cn/2/sd/live.m3u8"
+    },
+    {
+      "vod_name": "武汉外语",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream.appwuhan.com/6tzb/sd/live.m3u8"
+    },
+    {
+      "vod_name": "武汉文体",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream.appwuhan.com/5tzb/sd/live.m3u8"
+    },
+    {
+      "vod_name": "武汉经济",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream.appwuhan.com/4tzb/sd/live.m3u8"
+    },
+    {
+      "vod_name": "武进新闻",
+      "vod_pic": "None",
+      "vod_play_url": "http://live.wjyanghu.com/live/CH1.m3u8"
+    },
+    {
+      "vod_name": "武进生活",
+      "vod_pic": "None",
+      "vod_play_url": "http://live.wjyanghu.com/live/CH2.m3u8"
+    },
+    {
+      "vod_name": "民視",
+      "vod_pic": "https://www.ftv.com.tw/images/Ch_01.png",
+      "vod_play_url": "http://seb.sason.top/ptv/ftv.php?id=ms"
+    },
+    {
+      "vod_name": "民視台灣",
+      "vod_pic": "https://www.ftv.com.tw/images/Ch_03.png",
+      "vod_play_url": "http://seb.sason.top/ptv/ftv.php?id=tw"
+    },
+    {
+      "vod_name": "民視新聞",
+      "vod_pic": "None",
+      "vod_play_url": "https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8"
+    },
+    {
+      "vod_name": "民視新聞台",
+      "vod_pic": "https://i.imgur.com/6jbjVNy.png",
+      "vod_play_url": "https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8"
+    },
+    {
+      "vod_name": "民視第一",
+      "vod_pic": "https://www.ftv.com.tw/images/Ch_02.png",
+      "vod_play_url": "http://seb.sason.top/ptv/ftv.php?id=dy"
+    },
+    {
+      "vod_name": "永新电视一套",
+      "vod_pic": "None",
+      "vod_play_url": "http://jxyx.chinashadt.com:2036/live/1002.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "永新电视三套",
+      "vod_pic": "None",
+      "vod_play_url": "http://jxyx.chinashadt.com:2036/live/1004.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "永新电视二套",
+      "vod_pic": "None",
+      "vod_play_url": "http://jxyx.chinashadt.com:2036/live/1003.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "汕头综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://dslive.grtn.cn/stzh/playlist.m3u8"
+    },
+    {
+      "vod_name": "汕尾公共",
+      "vod_pic": "None",
+      "vod_play_url": "http://dslive.grtn.cn/swzh/sd/live.m3u8"
+    },
+    {
+      "vod_name": "汕尾综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://dslive.grtn.cn/swzh/playlist.m3u8"
+    },
+    {
+      "vod_name": "江津文化旅游",
+      "vod_pic": "None",
+      "vod_play_url": "http://222.179.155.21:1935/ch2.m3u8"
+    },
+    {
+      "vod_name": "江津文化旅游",
+      "vod_pic": "None",
+      "vod_play_url": "http://jiangjinlive.cbg.cn:1935/ch2.m3u8"
+    },
+    {
+      "vod_name": "江津新闻综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://222.179.155.21:1935/ch1.m3u8"
+    },
+    {
+      "vod_name": "江津新闻综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://jiangjinlive.cbg.cn:1935/ch1.m3u8"
+    },
+    {
+      "vod_name": "江津经济生活",
+      "vod_pic": "None",
+      "vod_play_url": "http://222.179.155.21:1935/ch0.m3u8"
+    },
+    {
+      "vod_name": "江津经济生活",
+      "vod_pic": "None",
+      "vod_play_url": "http://jiangjinlive.cbg.cn:1935/ch0.m3u8"
+    },
+    {
+      "vod_name": "江苏 Ⅰ 东海综合台",
+      "vod_pic": "None",
+      "vod_play_url": "rtmp://livetv.dhtv.cn/live/news"
+    },
+    {
+      "vod_name": "江苏 Ⅰ 苏州文化",
+      "vod_pic": "None",
+      "vod_play_url": "rtmp://csztv.2500sz.com/live/c03"
+    },
+    {
+      "vod_name": "江苏 Ⅰ 苏州生活",
+      "vod_pic": "None",
+      "vod_play_url": "rtmp://csztv.2500sz.com/live/c04"
+    },
+    {
+      "vod_name": "江苏 Ⅰ 苏州经济",
+      "vod_pic": "None",
+      "vod_play_url": "rtmp://csztv.2500sz.com/live/c02"
+    },
+    {
+      "vod_name": "江苏 Ⅰ 苏州综合",
+      "vod_pic": "None",
+      "vod_play_url": "rtmp://csztv.2500sz.com/live/c01"
+    },
+    {
+      "vod_name": "江苏 Ⅰ 连云港公共",
+      "vod_pic": "None",
+      "vod_play_url": "http://live.lyg1.com/ggpd/sd/live.m3u8"
+    },
+    {
+      "vod_name": "江苏 Ⅰ 连云港综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://live.lyg1.com/zhpd/sd/live.m3u8"
+    },
+
+
+    {
+      "vod_name": "江苏公共",
+      "vod_pic": "None",
+      "vod_play_url": "http://183.207.248.71/gitv/live1/G_JSGG/G_JSGG"
+    },
+    {
+      "vod_name": "江苏公共新闻",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/jiangsu.php?id=jsgg"
+    },
+    {
+      "vod_name": "江苏卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201512/24/567b9d2aaed87.png",
+      "vod_play_url": "http://39.134.66.66/PLTV/88888888/224/3221225503/index.m3u8"
+    },
+    {
+      "vod_name": "江苏卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201512/24/567b9d2aaed87.png",
+      "vod_play_url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225702/index.m3u8"
+    },
+    {
+      "vod_name": "江苏卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201512/24/567b9d2aaed87.png",
+      "vod_play_url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225743/index.m3u8"
+    },
+    {
+      "vod_name": "江苏卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201512/24/567b9d2aaed87.png",
+      "vod_play_url": "http://112.25.48.68/live/program/live/jswshd/4000000/mnf.m3u8"
+    },
+    {
+      "vod_name": "江苏卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201512/24/567b9d2aaed87.png",
+      "vod_play_url": "http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=5&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "江苏卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201512/24/567b9d2aaed87.png",
+      "vod_play_url": "http://117.169.120.140:8080/live/hdjiangsustv/.m3u8"
+    },
+    {
+      "vod_name": "江苏卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201512/24/567b9d2aaed87.png",
+      "vod_play_url": "http://183.207.248.71/cntv/live1/jiangsustv/jiangsustv"
+    },
+    {
+      "vod_name": "江苏卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201512/24/567b9d2aaed87.png",
+      "vod_play_url": "http://183.207.249.34/PLTV/4/224/3221227402/index.m3u8"
+    },
+    {
+      "vod_name": "江苏卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201512/24/567b9d2aaed87.png",
+      "vod_play_url": "http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227439/index.m3u8"
+    },
+    {
+      "vod_name": "江苏卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201512/24/567b9d2aaed87.png",
+      "vod_play_url": "http://223.110.245.170/PLTV/3/224/3221227255/index.m3u8"
+    },
+    {
+      "vod_name": "江苏卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201512/24/567b9d2aaed87.png",
+      "vod_play_url": "http://183.207.248.71/cntv/live1/HD-2500k-1080P-jiangsustv/HD-2500k-1080P-jiangsustv"
+    },
+    {
+      "vod_name": "江苏卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201512/24/567b9d2aaed87.png",
+      "vod_play_url": "http://183.207.248.71/gitv/live1/JSWS-HD/JSWS-HD"
+    },
+    {
+      "vod_name": "江苏国际",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/jiangsu.php?id=jsgj"
+    },
+    {
+      "vod_name": "江苏城市",
+      "vod_pic": "None",
+      "vod_play_url": "http://183.207.248.71/gitv/live1/G_JSCS/G_JSCS"
+    },
+    {
+      "vod_name": "江苏城市",
+      "vod_pic": "None",
+      "vod_play_url": "http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221225929/index.m3u8"
+    },
+    {
+      "vod_name": "江苏城市",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/jiangsu.php?id=jscs"
+    },
+    {
+      "vod_name": "江苏学习",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/jiangsu.php?id=jsxx"
+    },
+    {
+      "vod_name": "江苏影视",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/jiangsu.php?id=jsys"
+    },
+    {
+      "vod_name": "江苏影视",
+      "vod_pic": "None",
+      "vod_play_url": "http://183.207.248.71/gitv/live1/G_JSYS/G_JSYS"
+    },
+    {
+      "vod_name": "江苏影视",
+      "vod_pic": "None",
+      "vod_play_url": "http://223.110.243.134/PLTV/4/224/3221225937/index.m3u8"
+    },
+    {
+      "vod_name": "江苏教育",
+      "vod_pic": "None",
+      "vod_play_url": "http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225923/index.m3u8"
+    },
+    {
+      "vod_name": "江苏教育",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/jiangsu.php?id=jsjy"
+    },
+    {
+      "vod_name": "江苏教育",
+      "vod_pic": "None",
+      "vod_play_url": "http://183.207.248.71/gitv/live1/G_JSJY/G_JSJY"
+    },
+    {
+      "vod_name": "江苏综艺",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/jiangsu.php?id=jszy"
+    },
+    {
+      "vod_name": "江苏综艺",
+      "vod_pic": "None",
+      "vod_play_url": "http://183.207.248.71/gitv/live1/G_JSZY/G_JSZY"
+    },
+    {
+      "vod_name": "江苏靓妆",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/qt/liangzhuang.png",
+      "vod_play_url": "http://149.129.100.78/jiangsu.php?id=jslz"
+    },
+    {
+      "vod_name": "江西 Ⅰ 上饶综合台",
+      "vod_pic": "None",
+      "vod_play_url": "http://live.0793.tv/srtv1/sd/live.m3u8"
+    },
+    {
+      "vod_name": "江西公共农业",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/jxtv.php?id=jxtv5"
+    },
+    {
+      "vod_name": "江西卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201511/20/564ebc704917e.png",
+      "vod_play_url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8"
+    },
+    {
+      "vod_name": "江西卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201511/20/564ebc704917e.png",
+      "vod_play_url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225746/index.m3u8"
+    },
+    {
+      "vod_name": "江西卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201511/20/564ebc704917e.png",
+      "vod_play_url": "http://112.25.48.68/live/program/live/jxwshd/4000000/mnf.m3u8"
+    },
+    {
+      "vod_name": "江西卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201511/20/564ebc704917e.png",
+      "vod_play_url": "http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=40&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "江西卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201511/20/564ebc704917e.png",
+      "vod_play_url": "http://183.207.248.71/cntv/live1/jiangxistv/jiangxistv"
+    },
+    {
+      "vod_name": "江西卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201511/20/564ebc704917e.png",
+      "vod_play_url": "http://183.207.249.11/PLTV/3/224/3221225536/index.m3u8"
+    },
+    {
+      "vod_name": "江西卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201511/20/564ebc704917e.png",
+      "vod_play_url": "http://223.110.254.199:6610/cntv/live1/jiangxistv/jiangxistv/1.m3u8"
+    },
+    {
+      "vod_name": "江西卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201511/20/564ebc704917e.png",
+      "vod_play_url": "http://117.169.120.140:8080/live/jiangxistv/.m3u8"
+    },
+    {
+      "vod_name": "江西卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201511/20/564ebc704917e.png",
+      "vod_play_url": "http://183.207.248.71/gitv/live1/JXWS/JXWS"
+    },
+    {
+      "vod_name": "江西卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201511/20/564ebc704917e.png",
+      "vod_play_url": "http://183.207.249.15/PLTV/4/224/3221225798/index.m3u8"
+    },
+    {
+      "vod_name": "江西卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201511/20/564ebc704917e.png",
+      "vod_play_url": "http://223.110.245.170/PLTV/3/224/3221225536/index.m3u8"
+    },
+    {
+      "vod_name": "江西卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201511/20/564ebc704917e.png",
+      "vod_play_url": "http://125.210.152.18:9090/live/JXWSHD_H265.m3u8"
+    },
+
+    {
+      "vod_name": "江西影视旅游",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/jxtv.php?id=jxtv4"
+    },
+    {
+      "vod_name": "江西新闻",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/jxtv.php?id=jxtv7"
+    },
+    {
+      "vod_name": "江西移动电视",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/jxtv.php?id=jxtv8"
+    },
+    {
+      "vod_name": "江西经济生活",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/jxtv.php?id=jxtv3"
+    },
+    {
+      "vod_name": "江西都市",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/jxtv.php?id=jxtv2"
+    },
+    {
+      "vod_name": "江西风尚购物",
+      "vod_pic": "None",
+      "vod_play_url": "http://39.134.66.66/PLTV/88888888/224/3221225521/index.m3u8"
+    },
+    {
+      "vod_name": "江门综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://218.17.99.211:5080/hls/ttsw6ccn.m3u8"
+    },
+    {
+      "vod_name": "江门综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://dslive.grtn.cn/jmzh/playlist.m3u8"
+    },
+    {
+      "vod_name": "沧县电视二套",
+      "vod_pic": "None",
+      "vod_play_url": "http://hebcx.chinashadt.com:2036/live/10002.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "沧县电视综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://hebcx.chinashadt.com:2036/live/10001.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "河北公共",
+      "vod_pic": "None",
+      "vod_play_url": "http://live7.plus.hebtv.com/hbggx/playlist.m3u8"
+    },
+    {
+      "vod_name": "河北农民",
+      "vod_pic": "None",
+      "vod_play_url": "http://hbzx.chinashadt.com:2036/zhibo/stream:hbnm.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "河北农民",
+      "vod_pic": "None",
+      "vod_play_url": "http://live3.plus.hebtv.com/nmpdx/playlist.m3u8"
+    },
+    {
+      "vod_name": "河北农民",
+      "vod_pic": "None",
+      "vod_play_url": "http://hbzx.chinashadt.com:2036/zhibo/stream:hbnm.stream_360p/playlist.m3u8"
+    },
+    {
+      "vod_name": "河北卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=45&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "河北卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://39.134.66.66/PLTV/88888888/224/3221225495/index.m3u8"
+    },
+    {
+      "vod_name": "河北卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225732/index.m3u8"
+    },
+    {
+      "vod_name": "河北卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://183.207.248.71/gitv/live1/G_HEBEI/G_HEBEI"
+    },
+    {
+      "vod_name": "河北卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225840/index.m3u8"
+    },
+    {
+      "vod_name": "河北卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://hbpx.chinashadt.com:2036/live/px4.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "河北卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://112.25.48.68/live/program/live/hbws/1300000/mnf.m3u8"
+    },
+    {
+      "vod_name": "河北卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://125.210.152.18:9090/live/HBWSHD_H265.m3u8"
+    },
+
+    {
+      "vod_name": "河北影视剧",
+      "vod_pic": "None",
+      "vod_play_url": "http://live6.plus.hebtv.com/hbysx/hd/live.m3u8"
+    },
+    {
+      "vod_name": "河北晋州综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://zhjz.chinashadt.com:2036/live/1.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "河北经济",
+      "vod_pic": "None",
+      "vod_play_url": "http://hbfc.chinashadt.com:2036/live/6.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "河北经济生活",
+      "vod_pic": "None",
+      "vod_play_url": "http://live2.plus.hebtv.com/jjshx/playlist.m3u8"
+    },
+    {
+      "vod_name": "河北都市",
+      "vod_pic": "None",
+      "vod_play_url": "http://live3.plus.hebtv.com/hbdsx/playlist.m3u8"
+    },
+    {
+      "vod_name": "河南卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201511/20/564ebd72d9f07.png",
+      "vod_play_url": "http://183.207.248.71/cntv/live1/henanstv/henanstv"
+    },
+    {
+      "vod_name": "河南卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201511/20/564ebd72d9f07.png",
+      "vod_play_url": "http://ott.js.chinamobile.com/PLTV/3/224/3221225815/index.m3u8"
+    },
+    {
+      "vod_name": "河南卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201511/20/564ebd72d9f07.png",
+      "vod_play_url": "http://112.25.48.68/live/program/live/hnws/1300000/mnf.m3u8"
+    },
+    {
+      "vod_name": "河源公共",
+      "vod_pic": "None",
+      "vod_play_url": "http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8"
+    },
+    {
+      "vod_name": "河源综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8"
+    },
+    {
+      "vod_name": "河源综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://dslive.grtn.cn/hyzh/playlist.m3u8"
+    },
+    {
+      "vod_name": "洛陽綜合頻道",
+      "vod_pic": "None",
+      "vod_play_url": "http://live1.lytv.com.cn:1935/live/LYTV1-1/playlist.m3u8"
+    },
+    {
+      "vod_name": "洪雅新闻综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://117.172.215.250:8083/videos/live/35/39/GQVbrgob5CGJM/GQVbrgob5CGJM.m3u8"
+    },
+    {
+      "vod_name": "济宁公共",
+      "vod_pic": "None",
+      "vod_play_url": "http://lives.jnnews.tv/video/s10001-JTV3/index.m3u8"
+    },
+    {
+      "vod_name": "济宁图文",
+      "vod_pic": "None",
+      "vod_play_url": "http://lives.jnnews.tv/video/s10001-JTV4/index.m3u8"
+    },
+    {
+      "vod_name": "济宁教育",
+      "vod_pic": "None",
+      "vod_play_url": "http://lives.jnnews.tv/video/s10001-JTV2/index.m3u8"
+    },
+    {
+      "vod_name": "浙江6套",
+      "vod_pic": "None",
+      "vod_play_url": "http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8"
+    },
+    {
+      "vod_name": "浙江 Ⅰ 浙江休闲",
+      "vod_pic": "None",
+      "vod_play_url": "http://hw-m-l.cztv.com/channels/lantian/channel06/720p.m3u8"
+    },
+    {
+      "vod_name": "浙江 Ⅰ 浙江国际",
+      "vod_pic": "None",
+      "vod_play_url": "http://hw-m-l.cztv.com/channels/lantian/channel10/720p.m3u8"
+    },
+
+    {
+      "vod_name": "浙江 Ⅰ 浙江教育",
+      "vod_pic": "None",
+      "vod_play_url": "http://hw-m-l.cztv.com/channels/lantian/channel04/720p.m3u8"
+    },
+    {
+      "vod_name": "浙江 Ⅰ 浙江新闻",
+      "vod_pic": "None",
+      "vod_play_url": "http://hw-m-l.cztv.com/channels/lantian/channel07/720p.m3u8"
+    },
+    {
+      "vod_name": "浙江 Ⅰ 浙江易购",
+      "vod_pic": "None",
+      "vod_play_url": "http://hw-m-l.cztv.com/channels/lantian/channel11/720p.m3u8"
+    },
+    {
+      "vod_name": "浙江 Ⅰ 浙江留学",
+      "vod_pic": "None",
+      "vod_play_url": "http://hw-m-l.cztv.com/channels/lantian/channel09/720p.m3u8"
+    },
+    {
+      "vod_name": "浙江 Ⅰ 浙江经济",
+      "vod_pic": "None",
+      "vod_play_url": "http://hw-m-l.cztv.com/channels/lantian/channel03/720p.m3u8"
+    },
+    {
+      "vod_name": "浙江 Ⅰ 绍兴影视",
+      "vod_pic": "None",
+      "vod_play_url": "http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8"
+    },
+    {
+      "vod_name": "浙江 Ⅰ 绍兴综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8"
+    },
+    {
+      "vod_name": "浙江公共",
+      "vod_pic": "None",
+      "vod_play_url": "http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8"
+    },
+    {
+      "vod_name": "浙江卫视",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/ws/zhejiang.png",
+      "vod_play_url": "http://39.134.66.66/PLTV/88888888/224/3221225514/index.m3u8"
+    },
+    {
+      "vod_name": "浙江卫视",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/ws/zhejiang.png",
+      "vod_play_url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8"
+    },
+    {
+      "vod_name": "浙江卫视",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/ws/zhejiang.png",
+      "vod_play_url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225744/index.m3u8"
+    },
+    {
+      "vod_name": "浙江卫视",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/ws/zhejiang.png",
+      "vod_play_url": "http://112.25.48.68/live/program/live/zjwshd/4000000/mnf.m3u8"
+    },
+    {
+      "vod_name": "浙江卫视",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/ws/zhejiang.png",
+      "vod_play_url": "http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=13&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "浙江卫视",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/ws/zhejiang.png",
+      "vod_play_url": "http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=13&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "浙江卫视",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/ws/zhejiang.png",
+      "vod_play_url": "http://183.207.248.71/cntv/live1/HD-2500k-1080P-zhejiangstv/HD-2500k-1080P-zhejiangstv"
+    },
+    {
+      "vod_name": "浙江卫视",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/ws/zhejiang.png",
+      "vod_play_url": "http://183.207.248.71/cntv/live1/zhejiangstv/zhejiangstv"
+    },
+    {
+      "vod_name": "浙江卫视",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/ws/zhejiang.png",
+      "vod_play_url": "http://183.207.249.34/PLTV/4/224/3221227393/index.m3u8"
+    },
+    {
+      "vod_name": "浙江卫视",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/ws/zhejiang.png",
+      "vod_play_url": "http://223.110.243.173/PLTV/3/224/3221227215/index.m3u8"
+    },
+    {
+      "vod_name": "浙江卫视",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/ws/zhejiang.png",
+      "vod_play_url": "http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227393/index.m3u8"
+    },
+    {
+      "vod_name": "浙江卫视",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/ws/zhejiang.png",
+      "vod_play_url": "http://223.110.254.210:6610/cntv/live1/zhejiangstv/zhejiangstv/1.m3u8"
+    },
+    {
+      "vod_name": "浙江卫视",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/ws/zhejiang.png",
+      "vod_play_url": "http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8"
+    },
+    {
+      "vod_name": "浙江卫视",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/ws/zhejiang.png",
+      "vod_play_url": "http://ott.js.chinamobile.com/PLTV/3/224/3221227393/index.m3u8"
+    },
+    {
+      "vod_name": "浙江卫视",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/ws/zhejiang.png",
+      "vod_play_url": "http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221227483/index.m3u8"
+    },
+    {
+      "vod_name": "浙江卫视",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/ws/zhejiang.png",
+      "vod_play_url": "http://183.207.248.71/gitv/live1/G_ZHEJIANG/G_ZHEJIANG"
+    },
+    {
+      "vod_name": "浙江国际",
+      "vod_pic": "https://ohudong.cztv.com/1/logos/2017/04/12/72d035c03412d7cb2d319c6607fef8e9.png",
+      "vod_play_url": "http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8"
+    },
+    {
+      "vod_name": "浙江国际",
+      "vod_pic": "https://ohudong.cztv.com/1/logos/2017/04/12/72d035c03412d7cb2d319c6607fef8e9.png",
+      "vod_play_url": "http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8"
+    },
+
+    {
+      "vod_name": "浙江影视",
+      "vod_pic": "https://parco-zh.github.io/demo/ZJYS.png",
+      "vod_play_url": "http://yd-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8"
+    },
+    {
+      "vod_name": "浙江影视",
+      "vod_pic": "https://parco-zh.github.io/demo/ZJYS.png",
+      "vod_play_url": "http://hw-m-l.cztv.com/channels/lantian/channel05/720p.m3u8"
+    },
+    {
+      "vod_name": "浙江教科影视",
+      "vod_pic": "https://ohudong.cztv.com/1/logos/2017/04/12/b500dac5d5af1dae3a3eceaf2e165bd0.png",
+      "vod_play_url": "http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8"
+    },
+    {
+      "vod_name": "浙江数码时代",
+      "vod_pic": "https://ohudong.cztv.com/1/logos/2017/05/16/090bdb9f3da9df74a275a785c3ba023f.png",
+      "vod_play_url": "http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8"
+    },
+    {
+      "vod_name": "浙江民生休闲",
+      "vod_pic": "https://ohudong.cztv.com/1/logos/2017/04/11/b11dda9a789c67cb16e6a5a5fce63125.png",
+      "vod_play_url": "http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8"
+    },
+    {
+      "vod_name": "浙江留学",
+      "vod_pic": "None",
+      "vod_play_url": "http://hw-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8"
+    },
+    {
+      "vod_name": "浙江经济生活",
+      "vod_pic": "https://ohudong.cztv.com/1/logos/2017/04/12/6c2c5375eff2669abfc9ad58b5fb200b.png",
+      "vod_play_url": "http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8"
+    },
+    {
+      "vod_name": "浙江钱江",
+      "vod_pic": "https://ohudong.cztv.com/1/logos/2017/04/12/bf6ad9ce4da1182a3a7ed0e188d8632f.png",
+      "vod_play_url": "http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8"
+    },
+    {
+      "vod_name": "浙江钱江",
+      "vod_pic": "https://ohudong.cztv.com/1/logos/2017/04/12/bf6ad9ce4da1182a3a7ed0e188d8632f.png",
+      "vod_play_url": "http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8"
+    },
+    {
+      "vod_name": "海南公共",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/hainan.php?id=6"
+    },
+    {
+      "vod_name": "海南卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=114&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "海南卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225722/index.m3u8"
+    },
+    {
+      "vod_name": "海南卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://183.207.248.11/PLTV/4/224/3221225810/index.m3u8"
+    },
+    {
+      "vod_name": "海南卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://112.25.48.68/live/program/live/lyws/1300000/mnf.m3u8"
+    },
+    {
+      "vod_name": "海南卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://livelyws.chinamcache.com/lyws/zb01.m3u8?auth_key=1593241343-0-0-90b80e74457c94b2015f9428a1cb9b0e"
+    },
+
+    {
+      "vod_name": "海南州藏語頻道",
+      "vod_pic": "None",
+      "vod_play_url": "http://live.hnzzzzzdst.com/channel1/sd/live.m3u8"
+    },
+    {
+      "vod_name": "海南文旅",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/hainan.php?id=8"
+    },
+    {
+      "vod_name": "海南新闻",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/hainan.php?id=5"
+    },
+    {
+      "vod_name": "海南经济",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/hainan.php?id=4"
+    },
+    {
+      "vod_name": "海盐新闻",
+      "vod_pic": "None",
+      "vod_play_url": "http://haiyan.liveyun.hoge.cn/xwpd/sd/live.m3u8"
+    },
+    {
+      "vod_name": "海西州综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream.haixitv.cn/1/sd/live.m3u8"
+    },
+    {
+      "vod_name": "涡阳新闻综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://220.180.110.101:8083/videos/live/36/57/hwEHU4UVQ1Iv5/hwEHU4UVQ1Iv5.m3u8"
+    },
+    {
+      "vod_name": "深圳公共",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/sztv.php?id=4"
+    },
+    {
+      "vod_name": "深圳卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://39.134.39.39/PLTV/88888888/224/3221226199/index.m3u8"
+    },
+    {
+      "vod_name": "深圳卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://39.134.66.66/PLTV/88888888/224/3221225668/index.m3u8"
+    },
+    {
+      "vod_name": "深圳卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225700/index.m3u8"
+    },
+    {
+      "vod_name": "深圳卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225741/index.m3u8"
+    },
+    {
+      "vod_name": "深圳卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225741/index.m3u8"
+    },
+    {
+      "vod_name": "深圳卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://112.25.48.68/live/program/live/szwshd/4000000/mnf.m3u8"
+    },
+    {
+      "vod_name": "深圳卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=42&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "深圳卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=42&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "深圳卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://117.169.120.140:8080/live/hdshenzhenstv/.m3u8"
+    },
+    {
+      "vod_name": "深圳卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://183.207.249.37/PLTV/4/224/3221227307/index.m3u8"
+    },
+    {
+      "vod_name": "深圳卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://223.110.243.171/PLTV/3/224/3221227217/index.m3u8"
+    },
+    {
+      "vod_name": "深圳卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://223.110.245.139/PLTV/4/224/3221227307/index.m3u8"
+    },
+    {
+      "vod_name": "深圳卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://183.207.248.71/cntv/live1/HD-2500k-1080P-shenzhenstv/HD-2500k-1080P-shenzhenstv"
+    },
+    {
+      "vod_name": "深圳娱乐",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/sztv.php?id=6"
+    },
+
+    {
+      "vod_name": "深圳电视剧",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/sztv.php?id=3"
+    },
+    {
+      "vod_name": "深圳移动电视",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/sztv.php?id=8"
+    },
+    {
+      "vod_name": "深圳蛇口",
+      "vod_pic": "None",
+      "vod_play_url": "http://218.17.99.211:82/hls/d4encs75.m3u8"
+    },
+    {
+      "vod_name": "深圳财经生活",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/sztv.php?id=5"
+    },
+    {
+      "vod_name": "深圳都市",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/sztv.php?id=2"
+    },
+    {
+      "vod_name": "深州綜合頻道",
+      "vod_pic": "None",
+      "vod_play_url": "http://hbsz.chinashadt.com:2036/live/stream:sztv.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "深州綜合頻道",
+      "vod_pic": "None",
+      "vod_play_url": "http://hbsz.chinashadt.com:2036/live/stream:sztv.stream_360p/playlist.m3u8"
+    },
+
+    {
+      "vod_name": "湖北 Ⅰ 荆门公共台",
+      "vod_pic": "None",
+      "vod_play_url": "http://jingmen.live.cjyun.org/video/s10101-jmggpd.m3u8"
+    },
+    {
+      "vod_name": "湖北卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201706/26/59506de1abb41.png",
+      "vod_play_url": "http://39.134.66.66/PLTV/88888888/224/3221225569/index.m3u8"
+    },
+    {
+      "vod_name": "湖北卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201706/26/59506de1abb41.png",
+      "vod_play_url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225699/index.m3u8"
+    },
+    {
+      "vod_name": "湖北卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201706/26/59506de1abb41.png",
+      "vod_play_url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225740/index.m3u8"
+    },
+    {
+      "vod_name": "湖北卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201706/26/59506de1abb41.png",
+      "vod_play_url": "http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=18&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "湖北卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201706/26/59506de1abb41.png",
+      "vod_play_url": "http://117.169.120.140:8080/live/hdhubeistv/.m3u8"
+    },
+    {
+      "vod_name": "湖北卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201706/26/59506de1abb41.png",
+      "vod_play_url": "http://183.207.248.71/cntv/live1/HD-2500k-1080P-hubeistv/HD-2500k-1080P-hubeistv"
+    },
+    {
+      "vod_name": "湖北卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201706/26/59506de1abb41.png",
+      "vod_play_url": "http://223.110.243.171/PLTV/3/224/3221227211/index.m3u8"
+    },
+    {
+      "vod_name": "湖北卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201706/26/59506de1abb41.png",
+      "vod_play_url": "http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227211/index.m3u8"
+    },
+    {
+      "vod_name": "湖北卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201706/26/59506de1abb41.png",
+      "vod_play_url": "http://223.110.245.170/PLTV/3/224/3221227211/index.m3u8"
+    },
+    {
+      "vod_name": "湖北卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201706/26/59506de1abb41.png",
+      "vod_play_url": "http://223.110.254.136:6610/cntv/live1/HD-2500k-1080P-hubeistv/HD-2500k-1080P-hubeistv/1.m3u8"
+    },
+    {
+      "vod_name": "湖北卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201706/26/59506de1abb41.png",
+      "vod_play_url": "http://ott.js.chinamobile.com/PLTV/3/224/3221227377/index.m3u8"
+    },
+    {
+      "vod_name": "湖北卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201706/26/59506de1abb41.png",
+      "vod_play_url": "http://ott.js.chinamobile.com/PLTV/3/224/3221227565/index.m3u8"
+    },
+    {
+      "vod_name": "湖北卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201706/26/59506de1abb41.png",
+      "vod_play_url": "http://183.207.248.71/gitv/live1/G_HUBEI/G_HUBEI"
+    },
+    {
+      "vod_name": "湖北卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201706/26/59506de1abb41.png",
+      "vod_play_url": "http://183.207.249.16/PLTV/4/224/3221225877/index.m3u8"
+    },
+    {
+      "vod_name": "湖南先锋乒羽",
+      "vod_pic": "None",
+      "vod_play_url": "http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=72&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "湖南公共",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/hunan.php?id=261"
+    },
+    {
+      "vod_name": "湖南卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/HNWS.png",
+      "vod_play_url": "http://39.134.66.66/PLTV/88888888/224/3221225506/index.m3u8"
+    },
+    {
+      "vod_name": "湖南卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/HNWS.png",
+      "vod_play_url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225704/index.m3u8"
+    },
+    {
+      "vod_name": "湖南卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/HNWS.png",
+      "vod_play_url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225745/index.m3u8"
+    },
+    {
+      "vod_name": "湖南卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/HNWS.png",
+      "vod_play_url": "http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=6&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "湖南卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/HNWS.png",
+      "vod_play_url": "http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=6&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "湖南卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/HNWS.png",
+      "vod_play_url": "http://183.207.248.71/cntv/live1/HD-2500k-1080P-hunanstv/HD-2500k-1080P-hunanstv"
+    },
+    {
+      "vod_name": "湖南卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/HNWS.png",
+      "vod_play_url": "http://183.207.248.71/cntv/live1/hunanstv/hunanstv"
+    },
+    {
+      "vod_name": "湖南卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/HNWS.png",
+      "vod_play_url": "http://223.110.243.173/PLTV/3/224/3221227220/index.m3u8"
+    },
+    {
+      "vod_name": "湖南卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/HNWS.png",
+      "vod_play_url": "http://223.110.245.139/PLTV/4/224/3221227404/index.m3u8"
+    },
+    {
+      "vod_name": "湖南卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/HNWS.png",
+      "vod_play_url": "http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227191/index.m3u8"
+    },
+    {
+      "vod_name": "湖南卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/HNWS.png",
+      "vod_play_url": "http://223.110.245.168/PLTV/4/224/3221227320/index.m3u8"
+    },
+    {
+      "vod_name": "湖南卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/HNWS.png",
+      "vod_play_url": "http://223.110.245.170/PLTV/3/224/3221227191/index.m3u8"
+    },
+    {
+      "vod_name": "湖南卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/HNWS.png",
+      "vod_play_url": "http://223.110.254.134:6610/cntv/live1/hunanstv/hunanstv/1.m3u8"
+    },
+    {
+      "vod_name": "湖南卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/HNWS.png",
+      "vod_play_url": "http://hbpx.chinashadt.com:2036/live/px5.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "湖南卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/HNWS.png",
+      "vod_play_url": "http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=006&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8"
+    },
+    {
+      "vod_name": "湖南卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/HNWS.png",
+      "vod_play_url": "http://m-tvlmedia.public.bcs.ysten.com/live/hdhunanstv/1.m3u8"
+    },
+    {
+      "vod_name": "湖南卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/HNWS.png",
+      "vod_play_url": "http://183.207.248.71/gitv/live1/G_HUNAN/G_HUNAN"
+    },
+    {
+      "vod_name": "湖南卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/HNWS.png",
+      "vod_play_url": "http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221225854/index.m3u8"
+    },
+    {
+      "vod_name": "湖南卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/HNWS.png",
+      "vod_play_url": "http://125.210.152.18:9090/live/HNWSHD_H265.m3u8"
+    },
+    {
+      "vod_name": "湖南国际",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/hunan.php?id=229"
+    },
+    {
+      "vod_name": "湖南娱乐",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/hunan.php?id=344"
+    },
+    {
+      "vod_name": "湖南快乐垂钓",
+      "vod_pic": "None",
+      "vod_play_url": "http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=69&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "湖南快乐购",
+      "vod_pic": "None",
+      "vod_play_url": "http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=56&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "湖南教育",
+      "vod_pic": "None",
+      "vod_play_url": "http://pull.hnedutv.com/live/hnedutv.m3u8"
+    },
+    {
+      "vod_name": "湖南电视剧",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/hunan.php?id=484"
+    },
+    {
+      "vod_name": "湖南经视",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/hunan.php?id=280"
+    },
+    {
+      "vod_name": "湖南茶",
+      "vod_pic": "http://www.lizhizu.com/uploads/images/20180620/bf1e4dba0c575389968b21d8a3493b7d.jpg",
+      "vod_play_url": "http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=70&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "湖南都市",
+      "vod_pic": "None",
+      "vod_play_url": "http://hnsd.chinashadt.com:2036/live/stream:hunandushi.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "湖南都市",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/hunan.php?id=346"
+    },
+
+    {
+      "vod_name": "湘潭公共",
+      "vod_pic": "None",
+      "vod_play_url": "http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8"
+    },
+    {
+      "vod_name": "湘潭新闻综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8"
+    },
+    {
+      "vod_name": "湛江综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://dslive.grtn.cn/zjzh/playlist.m3u8"
+    },
+    {
+      "vod_name": "滁州公共",
+      "vod_pic": "None",
+      "vod_play_url": "http://183.167.193.45:1935/live/cztvgg/playlist.m3u8"
+    },
+    {
+      "vod_name": "滁州新闻综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://183.167.193.45:1935/live/cztvzh/playlist.m3u8"
+    },
+    {
+      "vod_name": "滁州科教",
+      "vod_pic": "None",
+      "vod_play_url": "http://183.167.193.45:1935/live/cztvkj/playlist.m3u8"
+    },
+    {
+      "vod_name": "滦县综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://hblxx.chinashadt.com:2036/live/stream:lx1.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "滦县综艺",
+      "vod_pic": "None",
+      "vod_play_url": "http://hblxx.chinashadt.com:2036/live/stream:lx2.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "滨州公共电视剧",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream.bzcm.net/1/sd/live.m3u8"
+    },
+    {
+      "vod_name": "滨州新闻综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream.bzcm.net/2/sd/live.m3u8"
+    },
+    {
+      "vod_name": "滨州测试",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream.bzcm.net/4/sd/live.m3u8"
+    },
+    {
+      "vod_name": "滨海新闻",
+      "vod_pic": "http://static2.tvzhe.com/tvstation/logo/JSBHTV.gif",
+      "vod_play_url": "http://60.30.52.41/live/bhtv1/playlist.m3u8"
+    },
+    {
+      "vod_name": "滨海新闻综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://jsbh.chinashadt.com:2036/live/bh11.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "滨海都市",
+      "vod_pic": "http://static2.tvzhe.com/tvstation/logo/JSBHTV.gif",
+      "vod_play_url": "http://60.30.52.41/live/bhtv2/playlist.m3u8"
+    },
+    {
+      "vod_name": "漳州新闻综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8"
+    },
+    {
+      "vod_name": "潮安影视",
+      "vod_pic": "None",
+      "vod_play_url": "http://chaoan.chaoantv.com:8278/h_yingshi_1028/playlist.m3u8"
+    },
+    {
+      "vod_name": "潮安综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://chaoan.chaoantv.com:8278/live/chaoanzongyi.m3u8"
+    },
+    {
+      "vod_name": "潮州公共",
+      "vod_pic": "http://www.jisutiyu.com/uploads/150706/16-150F61J645626.jpg",
+      "vod_play_url": "http://live.zscz0768.com/live/ggpd.m3u8"
+    },
+    {
+      "vod_name": "潮州综合",
+      "vod_pic": "http://www.jisutiyu.com/uploads/150706/16-150F61J645626.jpg",
+      "vod_play_url": "http://dslive.grtn.cn/czzh/sd/live.m3u8"
+    },
+    {
+      "vod_name": "澳亚卫视",
+      "vod_pic": "https://upload.wikimedia.org/wikipedia/zh/thumb/d/d6/MASTV.png/180px-MASTV.png",
+      "vod_play_url": "http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=192&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "澳亚卫视",
+      "vod_pic": "https://upload.wikimedia.org/wikipedia/zh/thumb/d/d6/MASTV.png/180px-MASTV.png",
+      "vod_play_url": "http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=192&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8"
+    },
+    {
+      "vod_name": "澳亚卫视",
+      "vod_pic": "https://upload.wikimedia.org/wikipedia/zh/thumb/d/d6/MASTV.png/180px-MASTV.png",
+      "vod_play_url": "http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=192&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "澳亚卫视",
+      "vod_pic": "https://upload.wikimedia.org/wikipedia/zh/thumb/d/d6/MASTV.png/180px-MASTV.png",
+      "vod_play_url": "http://live.mastvnet.com/4rlff1m/live.m3u8"
+    },
+    {
+      "vod_name": "澳大利亚天和电视",
+      "vod_pic": "http://www.rtvchannel.com.au/wp-content/uploads/2017/04/xshow_08.png.pagespeed.ic_.2KNN9OHw1p.png",
+      "vod_play_url": "http://www.rtvcdn.com.au:8082/TV0002.m3u8"
+    },
+    {
+      "vod_name": "澳大利亚赛马",
+      "vod_pic": "None",
+      "vod_play_url": "https://racingvic-i.akamaized.net/hls/live/598695/racingvic/268.m3u8"
+    },
+    {
+      "vod_name": "澳视卫星",
+      "vod_pic": "https://parco-zh.github.io/demo/AOSHI.png",
+      "vod_play_url": "http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8"
+    },
+
+    {
+      "vod_name": "澳视葡文",
+      "vod_pic": "None",
+      "vod_play_url": "http://61.244.22.4/ch2/ch2.live/chunklist_w1632175875.m3u8"
+    },
+    {
+      "vod_name": "澳門綜藝",
+      "vod_pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TDM_Entertainment.png/640px-TDM_Entertainment.png",
+      "vod_play_url": "http://live4.tdm.com.mo/ch6/_definst_/hd_ch6.live/playlist.m3u8"
+    },
+
+    {
+      "vod_name": "灵台新闻综合",
+      "vod_pic": "http://5b0988e595225.cdn.sohucs.com/images/20181203/9958772f6d52462e840c4fbbeca65b22.jpeg",
+      "vod_play_url": "http://117.156.28.119/270000001111/1110000145/index.m3u8"
+    },
+
+    {
+      "vod_name": "点掌财经",
+      "vod_pic": "https://i.imgur.com/N8YdX6W.png",
+      "vod_play_url": "http://cclive.aniu.tv/live/anzb.m3u8"
+    },
+    {
+      "vod_name": "犍为新闻综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://tv.scwlqw.cn:3100/hls/kqcyufpi/index.m3u8"
+    },
+    {
+      "vod_name": "现代教育",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/guangdong.php?id=13"
+    },
+    {
+      "vod_name": "珠江",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/gt/zhujiang.png",
+      "vod_play_url": "http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=8&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "珠海生活",
+      "vod_pic": "None",
+      "vod_play_url": "http://dslive.grtn.cn/zhzh/playlist.m3u8"
+    },
+    {
+      "vod_name": "甘肃公共",
+      "vod_pic": "None",
+      "vod_play_url": "https://hls.gstv.com.cn/49048r/3t5xyc.m3u8"
+    },
+    {
+      "vod_name": "甘肃卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://39.134.39.38/PLTV/88888888/224/3221226240/index.m3u8?from=26&hms_devid=685&icpid=88888888"
+    },
+    {
+      "vod_name": "甘肃卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://39.134.39.39/PLTV/88888888/224/3221226240/index.m3u8"
+    },
+    {
+      "vod_name": "甘肃卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://39.134.66.66/PLTV/88888888/224/3221225584/index.m3u8"
+    },
+    {
+      "vod_name": "甘肃卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225724/index.m3u8"
+    },
+    {
+      "vod_name": "甘肃卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=142&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "甘肃卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://117.169.120.140:8080/live/gansustv/.m3u8"
+    },
+    {
+      "vod_name": "甘肃卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://183.207.248.71/gitv/live1/G_GANSU/G_GANSU"
+    },
+    {
+      "vod_name": "甘肃卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://112.25.48.68/live/program/live/gsws/1300000/mnf.m3u8"
+    },
+    {
+      "vod_name": "甘肃卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=142&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+
+    {
+      "vod_name": "甘肃文化影视",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream.gstv.com.cn/whys/sd/live.m3u8"
+    },
+    {
+      "vod_name": "甘肃移动",
+      "vod_pic": "None",
+      "vod_play_url": "https://hls.gstv.com.cn/49048r/y72q36.m3u8"
+    },
+    {
+      "vod_name": "甘肃经济",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream.gstv.com.cn/jjpd/sd/live.m3u8"
+    },
+    {
+      "vod_name": "甘肃都市",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream.gstv.com.cn/dspd/sd/live.m3u8"
+    },
+    {
+      "vod_name": "生活",
+      "vod_pic": "None",
+      "vod_play_url": "http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227311/index.m3u8"
+    },
+    {
+      "vod_name": "电白视窗",
+      "vod_pic": "None",
+      "vod_play_url": "http://gddb.chinashadt.com:1935/live/video2.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "电白视窗",
+      "vod_pic": "None",
+      "vod_play_url": "http://gddb.chinashadt.com:1935/live/video2.stream_360p/playlist.m3u8"
+    },
+    {
+      "vod_name": "电白综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://gddb.chinashadt.com:1935/live/video1.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "电白综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://gddb.chinashadt.com:1935/live/video1.stream_360p/playlist.m3u8"
+    },
+    {
+      "vod_name": "番禺",
+      "vod_pic": "None",
+      "vod_play_url": "http://live.pybtv.cn/channel1/sd/live.m3u8"
+    },
+    {
+      "vod_name": "白城新闻综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream2.jlntv.cn/baicheng1/sd/live.m3u8"
+    },
+    {
+      "vod_name": "白山新闻综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream2.jlntv.cn/baishan1/sd/live.m3u8"
+    },
+
+    {
+      "vod_name": "睛彩安徽",
+      "vod_pic": "https://ss1.baidu.com/-4o3dSag_xI4khGko9WTAnF6hhy/baike/w=268;g=0/sign=99d4887928a446237ecaa264a0191533/3ac79f3df8dcd1004e570a227a8b4710b8122fee.jpg",
+      "vod_play_url": "http://149.129.100.78/anhui.php?id=85"
+    },
+    {
+      "vod_name": "石景山电视台",
+      "vod_pic": "None",
+      "vod_play_url": "http://live.sjsrm.com/bjsjs/sd/live.m3u8"
+    },
+    {
+      "vod_name": "福F建J公共",
+      "vod_pic": "None",
+      "vod_play_url": "rtsp://183.252.176.54:554/PLTV/88888888/224/3221226113/10000100000000060000000002358064_0.smil"
+    },
+
+    {
+      "vod_name": "福F建J新闻",
+      "vod_pic": "None",
+      "vod_play_url": "rtsp://183.252.176.54:554/PLTV/88888888/224/3221226116/10000100000000060000000002358068_0.smil"
+    },
+    {
+      "vod_name": "福F建J旅游",
+      "vod_pic": "None",
+      "vod_play_url": "rtsp://183.252.176.54:554/PLTV/88888888/224/3221226125/10000100000000060000000002358191_0.smil"
+    },
+    {
+      "vod_name": "福F建J电视",
+      "vod_pic": "None",
+      "vod_play_url": "rtsp://183.252.176.54:554/PLTV/88888888/224/3221226115/10000100000000060000000002358067_0.smil"
+    },
+    {
+      "vod_name": "福F建J经济",
+      "vod_pic": "None",
+      "vod_play_url": "rtsp://183.252.176.54:554/PLTV/88888888/224/3221226117/10000100000000060000000002358072_0.smil"
+    },
+    {
+      "vod_name": "福山生活",
+      "vod_pic": "None",
+      "vod_play_url": "http://live.jiaodong.net:82/tvfushan/hls/tv_shenghuo.m3u8"
+    },
+
+    {
+      "vod_name": "福州影视",
+      "vod_pic": "None",
+      "vod_play_url": "http://live.zohi.tv/video/s10001-yspd-2/index.m3u8"
+    },
+    {
+      "vod_name": "福州生活",
+      "vod_pic": "None",
+      "vod_play_url": "http://live.zohi.tv/video/s10001-shpd-3/index.m3u8"
+    },
+    {
+      "vod_name": "福州综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8"
+    },
+    {
+      "vod_name": "福海维语综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://klmyyun.chinavas.com/hls/fuhai1.m3u8"
+    },
+    {
+      "vod_name": "萬州三峽移民",
+      "vod_pic": "None",
+      "vod_play_url": "http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8"
+    },
+    {
+      "vod_name": "萬州三峽移民",
+      "vod_pic": "None",
+      "vod_play_url": "http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8"
+    },
+    {
+      "vod_name": "萬州影視文藝",
+      "vod_pic": "None",
+      "vod_play_url": "http://123.146.162.24:8017/d4ceB1a/1000/live.m3u8"
+    },
+    {
+      "vod_name": "萬州影視文藝",
+      "vod_pic": "None",
+      "vod_play_url": "http://wanzhoulive.cbg.cn:8017/d4ceB1a/1000/live.m3u8"
+    },
+    {
+      "vod_name": "萬州科教頻道",
+      "vod_pic": "None",
+      "vod_play_url": "http://123.146.162.24:8017/Cz7WPb8/800/live.m3u8"
+    },
+    {
+      "vod_name": "萬州科教頻道",
+      "vod_pic": "None",
+      "vod_play_url": "http://wanzhoulive.cbg.cn:8017/Cz7WPb8/800/live.m3u8"
+    },
+    {
+      "vod_name": "萬州綜合頻道",
+      "vod_pic": "None",
+      "vod_play_url": "http://123.146.162.24:8017/iTXwrGs/800/live.m3u8"
+    },
+    {
+      "vod_name": "萬州綜合頻道",
+      "vod_pic": "None",
+      "vod_play_url": "http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8"
+    },
+    {
+      "vod_name": "秦皇島影視",
+      "vod_pic": "None",
+      "vod_play_url": "http://vod.qhdcm.com:1935/live/qhdtv3/800K/tzwj_video.m3u8"
+    },
+    {
+      "vod_name": "秦皇島政法",
+      "vod_pic": "None",
+      "vod_play_url": "http://vod.qhdcm.com:1935/live/qhdtv2/800K/tzwj_video.m3u8"
+    },
+    {
+      "vod_name": "秦皇島新聞",
+      "vod_pic": "None",
+      "vod_play_url": "http://vod.qhdcm.com:1935/live/qhdtv1/800K/tzwj_video.m3u8"
+    },
+    {
+      "vod_name": "积石山电视台",
+      "vod_pic": "http://portrait2.sinaimg.cn/1296090737/blog/180.jpg",
+      "vod_play_url": "http://117.156.28.119/270000001111/1110000152/index.m3u8"
+    },
+    {
+      "vod_name": "立法院IVOD直播交通委員會",
+      "vod_pic": "https://i.imgur.com/PxYhFpb.png",
+      "vod_play_url": "https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live6/hls-cl-tv/index.m3u8"
+    },
+    {
+      "vod_name": "立法院IVOD直播內政委員會",
+      "vod_pic": "https://i.imgur.com/PxYhFpb.png",
+      "vod_play_url": "https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live7/hls-cl-tv/index.m3u8"
+    },
+    {
+      "vod_name": "立法院IVOD直播司法及法制委員會",
+      "vod_pic": "https://i.imgur.com/PxYhFpb.png",
+      "vod_play_url": "https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live9/hls-cl-tv/index.m3u8"
+    },
+    {
+      "vod_name": "立法院IVOD直播外交及國防委員會",
+      "vod_pic": "https://i.imgur.com/PxYhFpb.png",
+      "vod_play_url": "https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live8/hls-cl-tv/index.m3u8"
+    },
+    {
+      "vod_name": "立法院IVOD直播教育及文化委員會",
+      "vod_pic": "https://i.imgur.com/PxYhFpb.png",
+      "vod_play_url": "https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live4/hls-cl-tv/index.m3u8"
+    },
+    {
+      "vod_name": "立法院IVOD直播朝野協商",
+      "vod_pic": "https://i.imgur.com/PxYhFpb.png",
+      "vod_play_url": "https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live10/hls-cl-tv/index.m3u8"
+    },
+    {
+      "vod_name": "立法院IVOD直播社會福利及衛生環境委員會",
+      "vod_pic": "https://i.imgur.com/PxYhFpb.png",
+      "vod_play_url": "https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live3/hls-cl-tv/index.m3u8"
+    },
+    {
+      "vod_name": "立法院IVOD直播經濟委員會",
+      "vod_pic": "https://i.imgur.com/PxYhFpb.png",
+      "vod_play_url": "https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live5/hls-cl-tv/index.m3u8"
+    },
+    {
+      "vod_name": "立法院IVOD直播財政委員會",
+      "vod_pic": "https://i.imgur.com/PxYhFpb.png",
+      "vod_play_url": "https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live2/hls-cl-tv/index.m3u8"
+    },
+    {
+      "vod_name": "立法院IVOD直播院會",
+      "vod_pic": "https://i.imgur.com/PxYhFpb.png",
+      "vod_play_url": "https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live1/hls-cl-tv/index.m3u8"
+    },
+    {
+      "vod_name": "篮球资讯",
+      "vod_pic": "None",
+      "vod_play_url": "http://223.110.245.139/PLTV/4/224/3221227023/index.m3u8"
+    },
+    {
+      "vod_name": "娄底",
+      "vod_pic": "None",
+      "vod_play_url": "http://mms.ldntv.cn:1935/live/_definst_/zonghe/chunklist_w67585331.m3u8"
+    },
+    {
+      "vod_name": "娄底综合",
+      "vod_pic": "http://www.ldntv.cn/Portal/Tpl/templates/default/images/live_pic1.png",
+      "vod_play_url": "http://119.39.242.52:1935/live/zonghe/playlist.m3u8"
+    },
+    {
+      "vod_name": "娄底综合",
+      "vod_pic": "http://www.ldntv.cn/Portal/Tpl/templates/default/images/live_pic1.png",
+      "vod_play_url": "http://mms.ldntv.cn:1935/live/zonghe/playlist.m3u8"
+    },
+
+    {
+      "vod_name": "綦江综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://113.207.29.195:1935/app_2/_definst_/ls_25.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "红牛REDBULL TV",
+      "vod_pic": "None",
+      "vod_play_url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8"
+    },
+    {
+      "vod_name": "纪实人文",
+      "vod_pic": "None",
+      "vod_play_url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8"
+    },
+    {
+      "vod_name": "纯享4K",
+      "vod_pic": "None",
+      "vod_play_url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8"
+    },
+    {
+      "vod_name": "绥江综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://60.160.23.32:6055/sjtv/sjtv.m3u8"
+    },
+    {
+      "vod_name": "继续教育",
+      "vod_pic": "None",
+      "vod_play_url": "http://111.63.117.13:6060/030000001000/G_CETV-2/G_CETV-2.m3u8"
+    },
+    {
+      "vod_name": "罗山电视台",
+      "vod_pic": "None",
+      "vod_play_url": "http://live.dxhmt.cn:9081/tv/11521-1.m3u8"
+    },
+    {
+      "vod_name": "罗马尼亚STV",
+      "vod_pic": "None",
+      "vod_play_url": "http://s2.streamnet.ro:8035/stream.flv"
+    },
+    {
+      "vod_name": "置业",
+      "vod_pic": "None",
+      "vod_play_url": "http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227037/index.m3u8"
+    },
+    {
+      "vod_name": "美国中文电视",
+      "vod_pic": "https://ss0.baidu.com/-Po3dSag_xI4khGko9WTAnF6hhy/baike/pic/item/4034970a304e251f46b43584a786c9177f3e530f.jpg",
+      "vod_play_url": "https://jpts.sinovision.net/livestream.m3u8"
+    },
+    {
+      "vod_name": "美国亚美卫视",
+      "vod_pic": "None",
+      "vod_play_url": "https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8"
+    },
+    {
+      "vod_name": "美国狗狗宠物",
+      "vod_pic": "None",
+      "vod_play_url": "http://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8"
+    },
+
+    {
+      "vod_name": "耀才財經台",
+      "vod_pic": "https://i.imgur.com/xliVoIt.jpg?1",
+      "vod_play_url": "http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8"
+    },
+    {
+      "vod_name": "耀才财经",
+      "vod_pic": "None",
+      "vod_play_url": "http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8"
+    },
+    {
+      "vod_name": "耀才财经",
+      "vod_pic": "None",
+      "vod_play_url": "http://202.69.67.66/webcast/bshdlive-pc/playlist.m3u8"
+    },
+    {
+      "vod_name": "耀才财经",
+      "vod_pic": "None",
+      "vod_play_url": "rtmp://202.69.69.180/webcast/bshdlive-pc"
+    },
+    {
+      "vod_name": "肃州电视台",
+      "vod_pic": "https://i.imgur.com/WcPcluo.png",
+      "vod_play_url": "http://117.156.28.119/270000001111/1110000123/index.m3u8"
+    },
+    {
+      "vod_name": "肇庆综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://dslive.grtn.cn/zqzh/playlist.m3u8"
+    },
+    {
+      "vod_name": "舟山公共生活",
+      "vod_pic": "None",
+      "vod_play_url": "http://live.wifizs.cn/ggsh/sd/live.m3u8"
+    },
+    {
+      "vod_name": "舟山新闻综合",
+      "vod_pic": "http://static2.tvzhe.com/channel/logo/ZJZS-ZH.jpg",
+      "vod_play_url": "http://live.wifizs.cn/xwzh/sd/live.m3u8"
+    },
+    {
+      "vod_name": "舟山新闻综合",
+      "vod_pic": "http://static2.tvzhe.com/channel/logo/ZJZS-ZH.jpg",
+      "vod_play_url": "http://stream.wifizs.cn/xwzh/sd/live.m3u8"
+    },
+    {
+      "vod_name": "舟山群岛旅游",
+      "vod_pic": "None",
+      "vod_play_url": "http://live.wifizs.cn/qdly/sd/live.m3u8"
+    },
+    {
+      "vod_name": "芜湖公共",
+      "vod_pic": "None",
+      "vod_play_url": "http://live1.wuhubtv.com/channel3/sd/live.m3u8"
+    },
+    {
+      "vod_name": "芜湖新闻综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://live1.wuhubtv.com/channel1/sd/live.m3u8"
+    },
+    {
+      "vod_name": "芜湖生活",
+      "vod_pic": "None",
+      "vod_play_url": "http://live1.wuhubtv.com/channel2/sd/live.m3u8"
+    },
+    {
+      "vod_name": "苏州文化生活",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/suzhou.php?id=szwhsh"
+    },
+    {
+      "vod_name": "苏州新闻综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/suzhou.php?id=szxw"
+    },
+    {
+      "vod_name": "苏州生活资讯",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/suzhou.php?id=szshzx"
+    },
+    {
+      "vod_name": "苏州社会经济",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/suzhou.php?id=szshjj"
+    },
+    {
+      "vod_name": "茂名综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://dslive.grtn.cn/mmzh/playlist.m3u8"
+    },
+    {
+      "vod_name": "荣昌综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://183.64.181.25:40023/rongchang01.m3u8"
+    },
+    {
+      "vod_name": "莒縣圖文頻道",
+      "vod_pic": "None",
+      "vod_play_url": "http://61.162.225.122:8181/live/test3.m3u8"
+    },
+    {
+      "vod_name": "莒縣電視一套",
+      "vod_pic": "None",
+      "vod_play_url": "http://61.162.225.122:8181/live/test1.m3u8"
+    },
+    {
+      "vod_name": "莒縣電視二套",
+      "vod_pic": "None",
+      "vod_play_url": "http://61.162.225.122:8181/live/test2.m3u8"
+    },
+    {
+      "vod_name": "莲花卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/lotus.php?id=1"
+    },
+    {
+      "vod_name": "華視新聞",
+      "vod_pic": "https://piceltaott-elta.cdn.hinet.net/upload/channel/910.png",
+      "vod_play_url": "http://seb.sason.top/sc/hsxw_fhd.m3u8"
+    },
+    {
+      "vod_name": "華視新聞資訊",
+      "vod_pic": "https://upload.wikimedia.org/wikipedia/zh/thumb/2/27/Cts_news_info.png/200px-Cts_news_info.png",
+      "vod_play_url": "http://seb.sason.top/sc/hsxw_fhd.m3u8"
+    },
+    {
+      "vod_name": "華藏衛視",
+      "vod_pic": "https://www.hwazan.org/statics/images/newhztv_logo.png",
+      "vod_play_url": "http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "華藏衛視",
+      "vod_pic": "https://www.hwazan.org/statics/images/newhztv_logo.png",
+      "vod_play_url": "http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "萍鄉公共頻道",
+      "vod_pic": "None",
+      "vod_play_url": "http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv3stream.m3u8"
+    },
+    {
+      "vod_name": "萍鄉教育頻道",
+      "vod_pic": "None",
+      "vod_play_url": "http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv2stream.m3u8"
+    },
+    {
+      "vod_name": "萍鄉新聞綜合",
+      "vod_pic": "None",
+      "vod_play_url": "http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv1stream.m3u8"
+    },
+    {
+      "vod_name": "萧山新闻综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8"
+    },
+    {
+      "vod_name": "蓝屏 432",
+      "vod_pic": "None",
+      "vod_play_url": "http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=109&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "蓬安新闻综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://palive.patv123.com:8091/live/xwpd_800K.m3u8"
+    },
+    {
+      "vod_name": "蕪湖教育頻道",
+      "vod_pic": "None",
+      "vod_play_url": "http://live1.wuhubtv.com/channel4/sd/live.m3u8"
+    },
+    {
+      "vod_name": "蕭山生活頻道",
+      "vod_pic": "None",
+      "vod_play_url": "http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8"
+    },
+    {
+      "vod_name": "衡水影视娱乐",
+      "vod_pic": "None",
+      "vod_play_url": "http://hls.hsrtv.cn/hls/hstv2.m3u8"
+    },
+    {
+      "vod_name": "衡水新闻综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://hls.hsrtv.cn/hls/hstv1.m3u8"
+    },
+    {
+      "vod_name": "袁州綜合頻道",
+      "vod_pic": "None",
+      "vod_play_url": "http://jxyz.chinashadt.com:8036/live/yz1.stream/playist.m3u8"
+    },
+    {
+      "vod_name": "西安丝路",
+      "vod_pic": "http://www.tvyan.com/uploads/dianshi/xatv5.jpg",
+      "vod_play_url": "http://stream2.xiancity.cn/xatv5/playlist.m3u8"
+    },
+    {
+      "vod_name": "西安乐购购物",
+      "vod_pic": "http://www.66zhibo.net/d/file/2018/0806/af2ee98fb3e3b7fcafb3bbbdae9d7957.jpg",
+      "vod_play_url": "http://stream2.xiancity.cn/xatv6/playlist.m3u8"
+    },
+    {
+      "vod_name": "西安商务资讯",
+      "vod_pic": "http://www.tvyan.com/uploads/dianshi/xatv3.jpg",
+      "vod_play_url": "http://stream2.xiancity.cn/xatv3/playlist.m3u8"
+    },
+    {
+      "vod_name": "西安影视",
+      "vod_pic": "http://www.tvyan.com/uploads/dianshi/xatv4.jpg",
+      "vod_play_url": "http://stream2.xiancity.cn/xatv4/playlist.m3u8"
+    },
+    {
+      "vod_name": "西安新闻",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream2.xiancity.cn/xatv1/playlist.m3u8"
+    },
+    {
+      "vod_name": "西安白鸽",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream2.xiancity.cn/xatv2/playlist.m3u8"
+    },
+    {
+      "vod_name": "西藏卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8"
+    },
+    {
+      "vod_name": "西藏卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=208&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "西藏卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://117.169.120.140:8080/live/xizangstv/.m3u8"
+    },
+    {
+      "vod_name": "西藏卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://183.207.249.16/PLTV/3/224/3221225523/index.m3u8"
+    },
+    {
+      "vod_name": "西藏卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://media.vtibet.com/masvod/HLSLive/9/hanyuTV_q1.m3u8"
+    },
+    {
+      "vod_name": "西藏藏語",
+      "vod_pic": "None",
+      "vod_play_url": "http://media.vtibet.com/masvod/HLSLive/7/zangyuTV_q1.m3u8"
+    },
+    {
+      "vod_name": "西虹市首富",
+      "vod_pic": "None",
+      "vod_play_url": "https://zuikzy.win7i.com/2018/07/30/hCt7GSGU1sAgOC8j/playlist.m3u8"
+    },
+    {
+      "vod_name": "西青新闻综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://221.238.209.44:81/hls/live1.m3u8"
+    },
+
+    {
+      "vod_name": "贵州公共",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/guizhou.php?id=gzgg"
+    },
+    {
+      "vod_name": "贵州卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://39.134.66.66/PLTV/88888888/224/3221225576/index.m3u8"
+    },
+    {
+      "vod_name": "贵州卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225728/index.m3u8"
+    },
+    {
+      "vod_name": "贵州卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://183.207.248.71/gitv/live1/G_GUIZHOU/G_GUIZHOU"
+    },
+    {
+      "vod_name": "贵州卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225787/index.m3u8"
+    },
+    {
+      "vod_name": "贵州卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://125.210.152.18:9090/live/GZWSHD_H265.m3u8"
+    },
+    {
+      "vod_name": "贵州大众生活",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/guizhou.php?id=dzsh"
+    },
+    {
+      "vod_name": "贵州家有购物",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/guizhou.php?id=8"
+    },
+    {
+      "vod_name": "贵州影视文艺",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/guizhou.php?id=gzwy"
+    },
+    {
+      "vod_name": "贵州科教健康",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/guizhou.php?id=kjjk"
+    },
+    {
+      "vod_name": "贵州经济",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/guizhou.php?id=gzjj"
+    },
+    {
+      "vod_name": "赵县电视一套",
+      "vod_pic": "None",
+      "vod_play_url": "http://hbzx.chinashadt.com:2036/zhibo/stream:zx1.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "赵县电视一套",
+      "vod_pic": "None",
+      "vod_play_url": "http://hbzx.chinashadt.com:2036/zhibo/stream:zx1.stream_360p/playlist.m3u8"
+    },
+    {
+      "vod_name": "赵县电视二套",
+      "vod_pic": "None",
+      "vod_play_url": "http://hbzx.chinashadt.com:2036/zhibo/stream:zx2.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "赵县电视二套",
+      "vod_pic": "None",
+      "vod_play_url": "http://hbzx.chinashadt.com:2036/zhibo/stream:zx2.stream_360p/playlist.m3u8"
+    },
+    {
+      "vod_name": "辛集新聞頻道",
+      "vod_pic": "None",
+      "vod_play_url": "http://zsxj.chinashadt.com:1935/live/xjxw.stream_360p/playlist.m3u8"
+    },
+    {
+      "vod_name": "辛集生活頻道",
+      "vod_pic": "None",
+      "vod_play_url": "http://zsxj.chinashadt.com:1935/live/xjsh.stream_360p/playlist.m3u8"
+    },
+    {
+      "vod_name": "辽宁卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/liaoning.jpg",
+      "vod_play_url": "http://39.134.39.37/PLTV/88888888/224/3221226209/index.m3u8"
+    },
+    {
+      "vod_name": "辽宁卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/liaoning.jpg",
+      "vod_play_url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225735/index.m3u8"
+    },
+    {
+      "vod_name": "辽宁卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/liaoning.jpg",
+      "vod_play_url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225696/index.m3u8"
+    },
+    {
+      "vod_name": "辽宁卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/liaoning.jpg",
+      "vod_play_url": "http://112.25.48.68/live/program/live/lnwshd/4000000/mnf.m3u8"
+    },
+    {
+      "vod_name": "辽宁卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/liaoning.jpg",
+      "vod_play_url": "http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=38&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "辽宁卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/liaoning.jpg",
+      "vod_play_url": "http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227410/index.m3u8"
+    },
+    {
+      "vod_name": "辽宁卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/liaoning.jpg",
+      "vod_play_url": "http://39.134.66.66/PLTV/88888888/224/3221225499/index.m3u8"
+    },
+    {
+      "vod_name": "辽宁卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/liaoning.jpg",
+      "vod_play_url": "http://183.207.248.71/cntv/live1/liaoningstv/liaoningstv"
+    },
+    {
+      "vod_name": "辽宁卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/liaoning.jpg",
+      "vod_play_url": "http://183.207.249.12/PLTV/4/224/3221225802/index.m3u8"
+    },
+    {
+      "vod_name": "辽宁卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/liaoning.jpg",
+      "vod_play_url": "http://183.207.249.71/PLTV/3/224/3221225566/index.m3u8"
+    },
+    {
+      "vod_name": "辽宁卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/liaoning.jpg",
+      "vod_play_url": "http://125.210.152.18:9090/live/LNWSHD_H265.m3u8"
+    },
+    {
+      "vod_name": "辽源新闻综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8"
+    },
+    {
+      "vod_name": "迈视网",
+      "vod_pic": "https://i.imgur.com/S14txRh.jpg",
+      "vod_play_url": "http://xinl.live.maxtv.cn/live/zb/playlist.m3u8"
+    },
+    {
+      "vod_name": "迪庆综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream01.dqtv123.com:1935/live/xinwenzonghe.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "迪庆藏语",
+      "vod_pic": "http://www.66zhibo.net/d/file/2019/0124/af2241fbb539921aa3c9c744b5cdc26b.jpg",
+      "vod_play_url": "http://stream01.dqtv123.com:1935/live/diqingzangyu.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "通化新闻",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream2.jlntv.cn/tonghua1/sd/live.m3u8"
+    },
+    {
+      "vod_name": "通州电视台",
+      "vod_pic": "http://www.dayuntongzhou.com/web/style/images/logo.png",
+      "vod_play_url": "http://pull.dayuntongzhou.com/live/tztv.m3u8"
+    },
+    {
+      "vod_name": "遂宁公共公益",
+      "vod_pic": "None",
+      "vod_play_url": "http://snlive.scsntv.com:8091/live/gggy.m3u8"
+    },
+    {
+      "vod_name": "遂宁综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://snlive.scsntv.com:8091/live/xwzh.m3u8"
+    },
+    {
+      "vod_name": "邗江资讯",
+      "vod_pic": "None",
+      "vod_play_url": "http://223.110.245.139/PLTV/4/224/3221227154/index.m3u8"
+    },
+    {
+      "vod_name": "邵东综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://hnsd.chinashadt.com:2036/live/stream:shaodong.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "酒泉新闻综合",
+      "vod_pic": "http://www.tvyan.com/uploads/dianshi/jiuquan.jpg",
+      "vod_play_url": "http://117.156.28.119/270000001111/1110000001/index.m3u8"
+    },
+    {
+      "vod_name": "重庆卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/chongqing.jpg",
+      "vod_play_url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225692/index.m3u8"
+    },
+    {
+      "vod_name": "重庆卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/chongqing.jpg",
+      "vod_play_url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225734/index.m3u8"
+    },
+    {
+      "vod_name": "重庆卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/chongqing.jpg",
+      "vod_play_url": "http://117.169.120.132:8080/live/chongqingstv/playlist.m3u8"
+    },
+    {
+      "vod_name": "重庆卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/chongqing.jpg",
+      "vod_play_url": "http://223.110.254.137:6610/cntv/live1/HD-8000k-1080P-chongqingstv/HD-8000k-1080P-chongqingstv/1.m3u8"
+    },
+    {
+      "vod_name": "重庆卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/chongqing.jpg",
+      "vod_play_url": "http://qxlmlive.cbg.cn:1935/app_2/ls_67.stream/chunklist.m3u8"
+    },
+    {
+      "vod_name": "重庆卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/chongqing.jpg",
+      "vod_play_url": "http://183.207.249.5/PLTV/4/224/3221225812/index.m3u8"
+    },
+    {
+      "vod_name": "重庆卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/chongqing.jpg",
+      "vod_play_url": "http://112.25.48.68/live/program/live/cqws/1300000/mnf.m3u8"
+    },
+    {
+      "vod_name": "重庆卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/chongqing.jpg",
+      "vod_play_url": "http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=10&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=1&Pcontent_id=.m3u8&Provider_id="
+    },
+    {
+      "vod_name": "重庆卫视",
+      "vod_pic": "https://parco-zh.github.io/demo/chongqing.jpg",
+      "vod_play_url": "http://183.207.248.71/gitv/live1/G_CHONGQING/G_CHONGQING"
+    },
+    {
+      "vod_name": "重庆忠县",
+      "vod_pic": "None",
+      "vod_play_url": "http://qxlmlive.cbg.cn:1935/app_2/ls_35.stream/chunklist.m3u8"
+    },
+    {
+      "vod_name": "重庆移动",
+      "vod_pic": "None",
+      "vod_play_url": "http://qxlmlive.cbg.cn:1935/app_2/ls_57.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "重庆移动机场",
+      "vod_pic": "None",
+      "vod_play_url": "http://qxlmlive.cbg.cn:1935/app_2/ls_56.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "金昌公共頻道",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream4.liveyun.hoge.cn/ch01/sd/live.m3u8"
+    },
+    {
+      "vod_name": "金昌綜合頻道",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream4.liveyun.hoge.cn/ch02/sd/live.m3u8"
+    },
+
+    {
+      "vod_name": "银川公共",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream.ycgbtv.com.cn/ycgg/sd/live.m3u8"
+    },
+    {
+      "vod_name": "银川生活",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream.ycgbtv.com.cn/ycxw/sd/live.m3u8"
+    },
+    {
+      "vod_name": "長豐新聞綜合",
+      "vod_pic": "None",
+      "vod_play_url": "http://218.23.114.19:1935/live/xinwen/playlist.m3u8"
+    },
+    {
+      "vod_name": "长乐综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://35908.hlsplay.aodianyun.com/guangdianyun_35908/tv_channel_327.m3u8"
+    },
+    {
+      "vod_name": "长寿文化旅游",
+      "vod_pic": "None",
+      "vod_play_url": "http://qxlmlive.cbg.cn:1935/app_2/ls_75.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "长寿综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://qxlmlive.cbg.cn:1935/app_2/ls_63.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "长春综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream2.jlntv.cn/jlcc/sd/live.m3u8"
+    },
+    {
+      "vod_name": "长沙地铁移动",
+      "vod_pic": "None",
+      "vod_play_url": "http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_356.m3u8"
+    },
+    {
+      "vod_name": "长沙女性",
+      "vod_pic": "None",
+      "vod_play_url": "http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_349.m3u8"
+    },
+    {
+      "vod_name": "长沙政法",
+      "vod_pic": "None",
+      "vod_play_url": "http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.m3u8"
+    },
+    {
+      "vod_name": "长沙新闻",
+      "vod_pic": "None",
+      "vod_play_url": "http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8"
+    },
+    {
+      "vod_name": "长沙经贸",
+      "vod_pic": "None",
+      "vod_play_url": "http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_350.m3u8"
+    },
+    {
+      "vod_name": "长沙购物",
+      "vod_pic": "None",
+      "vod_play_url": "http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_354.m3u8"
+    },
+    {
+      "vod_name": "阜城综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://hbfc.chinashadt.com:2036/live/2.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "阳江综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://dslive.grtn.cn/yjzh/playlist.m3u8"
+    },
+    {
+      "vod_name": "陕西卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://39.134.66.66/PLTV/88888888/224/3221225567/index.m3u8"
+    },
+    {
+      "vod_name": "陕西卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225729/index.m3u8"
+    },
+    {
+      "vod_name": "陕西卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://223.110.245.139/PLTV/4/224/3221227022/index.m3u8"
+    },
+    {
+      "vod_name": "陕西卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://112.25.48.68/live/program/live/sxws/1300000/mnf.m3u8"
+    },
+    {
+      "vod_name": "隆化影视",
+      "vod_pic": "None",
+      "vod_play_url": "http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "隆化综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://hblh.chinashadt.com:2036/live/stream:lh1.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "隨州綜合",
+      "vod_pic": "None",
+      "vod_play_url": "http://34766.hlsplay.aodianyun.com/guangdianyun_34766/tv_channel_304.m3u8"
+    },
+    {
+      "vod_name": "隨州農村",
+      "vod_pic": "None",
+      "vod_play_url": "http://34766.hlsplay.aodianyun.com/guangdianyun_34766/tv_channel_305.m3u8"
+    },
+    {
+      "vod_name": "集安综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream2.jlntv.cn/ja/sd/live.m3u8"
+    },
+    {
+      "vod_name": "霍山综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://ahhs.chinashadt.com:1936/live/stream:hs1.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "霸州公共頻道",
+      "vod_pic": "None",
+      "vod_play_url": "http://hbbz.chinashadt.com:2036/live/stream:bzgg.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "霸州少兒頻道",
+      "vod_pic": "None",
+      "vod_play_url": "http://hbbz.chinashadt.com:2036/live/stream:bzse.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "霸州文化頻道",
+      "vod_pic": "None",
+      "vod_play_url": "http://hbbz.chinashadt.com:2036/live/stream:bzwh.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "霸州新聞頻道",
+      "vod_pic": "None",
+      "vod_play_url": "http://hbbz.chinashadt.com:2036/live/stream:bzxw.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "霸州新闻",
+      "vod_pic": "None",
+      "vod_play_url": "http://rtvcdn.com.au:8082/TV_GG.m3u8"
+    },
+    {
+      "vod_name": "青州文化旅游",
+      "vod_pic": "None",
+      "vod_play_url": "http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "青州生活",
+      "vod_pic": "None",
+      "vod_play_url": "http://sdqz.chinashadt.com:2036/live/stream:2.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "青州综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "青海卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201512/24/567bbf299dfa0.png",
+      "vod_play_url": "http://live.geermurmt.com/qhws/sd/live.m3u8"
+    },
+    {
+      "vod_name": "青海卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201512/24/567bbf299dfa0.png",
+      "vod_play_url": "http://39.134.66.66/PLTV/88888888/224/3221225573/index.m3u8"
+    },
+    {
+      "vod_name": "青海卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201512/24/567bbf299dfa0.png",
+      "vod_play_url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8"
+    },
+    {
+      "vod_name": "青海卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201512/24/567bbf299dfa0.png",
+      "vod_play_url": "http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=206&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "青海卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201512/24/567bbf299dfa0.png",
+      "vod_play_url": "http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=206&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "青海卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201512/24/567bbf299dfa0.png",
+      "vod_play_url": "http://112.25.48.68/live/program/live/qhws/1300000/mnf.m3u8"
+    },
+    {
+      "vod_name": "青海安多卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://39.134.66.66/PLTV/88888888/224/3221225531/index.m3u8"
+    },
+    {
+      "vod_name": "靖江新闻綜合",
+      "vod_pic": "None",
+      "vod_play_url": "http://58.222.151.43:1935/live/xwzhpc/playlist.m3u8"
+    },
+    {
+      "vod_name": "靖江新闻綜合",
+      "vod_pic": "None",
+      "vod_play_url": "http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8"
+    },
+    {
+      "vod_name": "靖江新闻綜合",
+      "vod_pic": "None",
+      "vod_play_url": "http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8"
+    },
+    {
+      "vod_name": "静宁综合",
+      "vod_pic": "https://upload.wikimedia.org/wikipedia/zh/2/28/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png",
+      "vod_play_url": "http://117.156.28.119/270000001111/1110000147/index.m3u8"
+    },
+    {
+      "vod_name": "鞍山图文",
+      "vod_pic": "None",
+      "vod_play_url": "http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=12&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=1&Pcontent_id=.m3u8&Provider_id="
+    },
+    {
+      "vod_name": "韶关公共",
+      "vod_pic": "None",
+      "vod_play_url": "http://dslive.grtn.cn/sgxwzhHD/playlist.m3u8"
+    },
+    {
+      "vod_name": "风尚购物",
+      "vod_pic": "None",
+      "vod_play_url": "http://183.207.248.71/cntv/live1/fengshanggw/fengshanggw"
+    },
+    {
+      "vod_name": "餘姚姚江文化",
+      "vod_pic": "None",
+      "vod_play_url": "http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8"
+    },
+
+    {
+      "vod_name": "马云对话",
+      "vod_pic": "None",
+      "vod_play_url": "http://www.alibabapictures.com/movies/10/mayunduihua.mp4"
+    },
+    {
+      "vod_name": "高台电视台",
+      "vod_pic": "https://upload.wikimedia.org/wikipedia/zh/2/28/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png",
+      "vod_play_url": "http://117.156.28.119/270000001111/1110000146/index.m3u8"
+    },
+    {
+      "vod_name": "高尔夫",
+      "vod_pic": "None",
+      "vod_play_url": "http://149.129.100.78/guangdong.php?id=68"
+    },
+
+    {
+      "vod_name": "鳳凰衛視中文台",
+      "vod_pic": "https://pbs.twimg.com/profile_images/1246604721462239232/QCKNvVux_400x400.jpg",
+      "vod_play_url": "http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8"
+    },
+    {
+      "vod_name": "鳳凰衛視資訊台HD",
+      "vod_pic": "https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png",
+      "vod_play_url": "http://117.169.120.138:8080/live/fhzixun/.m3u8"
+    },
+    {
+      "vod_name": "鳳凰衛視電影台",
+      "vod_pic": "https://p1.ifengimg.com/a/2018_43/45a9d426b4ae58c.jpg",
+      "vod_play_url": "rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy"
+    },
+    {
+      "vod_name": "鹤壁新闻综合",
+      "vod_pic": "http://www.tvyan.com/uploads/dianshi/hebi.jpg",
+      "vod_play_url": "http://pili-live-hls.hebitv.com/hebi/hebi.m3u8"
+    },
+    {
+      "vod_name": "鹤峰综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://hefeng.live.tempsource.cjyun.org/videotmp/s10100-hftv.m3u8"
+    },
+    {
+      "vod_name": "鹿泉一套",
+      "vod_pic": "None",
+      "vod_play_url": "http://hblq.chinashadt.com:2036/live/stream:luquan1.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "鹿泉二套",
+      "vod_pic": "None",
+      "vod_play_url": "http://hblq.chinashadt.com:2036/live/stream:luquan2.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "黃驊影視",
+      "vod_pic": "None",
+      "vod_play_url": "http://hbhh.chinashadt.com:2111/live/hhys.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "黃驊渤海新區",
+      "vod_pic": "None",
+      "vod_play_url": "http://hbhh.chinashadt.com:2111/live/bhtv.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "黄河电视台",
+      "vod_pic": "http://epg.51zmt.top:8000/tb1/ws/huanghe.png",
+      "vod_play_url": "http://149.129.100.78/tv.php?id=sxhh"
+    },
+    {
+      "vod_name": "黄骅一套",
+      "vod_pic": "None",
+      "vod_play_url": "http://hbhh.chinashadt.com:2111/live/hhtv.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "黄骅二套",
+      "vod_pic": "None",
+      "vod_play_url": "http://hbhh.chinashadt.com:2111/live/hhtv2.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "黑莓电竞",
+      "vod_pic": "None",
+      "vod_play_url": "http://39.134.66.66/PLTV/88888888/224/3221225559/index.m3u8"
+    },
+    {
+      "vod_name": "黑龙卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://223.110.243.169/PLTV/3/224/3221227252/index.m3u8"
+    },
+    {
+      "vod_name": "黑龙卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://223.110.245.139/PLTV/4/224/3221227492/index.m3u8"
+    },
+    {
+      "vod_name": "黑龙卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://223.110.245.170/PLTV/3/224/3221227252/index.m3u8"
+    },
+    {
+      "vod_name": "黑龙卫视",
+      "vod_pic": "None",
+      "vod_play_url": "http://125.210.152.18:9090/live/HLJWSHD_H265.m3u8"
+    },
+    {
+      "vod_name": "黑龙江",
+      "vod_pic": "None",
+      "vod_play_url": "http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8"
+    },
+    {
+      "vod_name": "黑龙江",
+      "vod_pic": "None",
+      "vod_play_url": "http://ott.js.chinamobile.com/PLTV/3/224/3221227252/index.m3u8"
+    },
+    {
+      "vod_name": "黑龙江",
+      "vod_pic": "None",
+      "vod_play_url": "http://183.207.248.71/gitv/live1/G_HEILONGJIANG/G_HEILONGJIANG"
+    },
+    {
+      "vod_name": "黑龙江卫",
+      "vod_pic": "None",
+      "vod_play_url": "http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv"
+    },
+    {
+      "vod_name": "黑龙江卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201512/24/567b9d67870b3.png",
+      "vod_play_url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225690/index.m3u8"
+    },
+    {
+      "vod_name": "黑龙江卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201512/24/567b9d67870b3.png",
+      "vod_play_url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225736/index.m3u8"
+    },
+    {
+      "vod_name": "黑龙江卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201512/24/567b9d67870b3.png",
+      "vod_play_url": "http://183.207.249.36/PLTV/4/224/3221227323/index.m3u8"
+    },
+    {
+      "vod_name": "黑龙江卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201512/24/567b9d67870b3.png",
+      "vod_play_url": "http://223.110.254.143:6610/cntv/live1/HD-8000k-1080P-heilongjiangstv/HD-8000k-1080P-heilongjiangstv/1.m3u8"
+    },
+    {
+      "vod_name": "黑龙江卫视",
+      "vod_pic": "http://s.wasu.cn/data/images/201512/24/567b9d67870b3.png",
+      "vod_play_url": "http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=27&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+    {
+      "vod_name": "黑龙江台",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream3.hljtv.com/hljws2/sd/live.m3u8"
+    },
+
+    {
+      "vod_name": "黑龙江影视",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream3.hljtv.com/hljys2/sd/live.m3u8"
+    },
+    {
+      "vod_name": "黑龙江文体",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream3.hljtv.com/hljwy2/sd/live.m3u8"
+    },
+    {
+      "vod_name": "黑龙江新闻法治",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream3.hljtv.com/hljxw2/sd/live.m3u8"
+    },
+    {
+      "vod_name": "黑龙江都市",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream3.hljtv.com/hljdd2/sd/live.m3u8"
+    },
+    {
+      "vod_name": "黔西南公共",
+      "vod_pic": "None",
+      "vod_play_url": "http://live.qxndt.com/channel3/sd/live.m3u8"
+    },
+    {
+      "vod_name": "黔西南综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://live.qxndt.com/channel2/sd/live.m3u8"
+    },
+    {
+      "vod_name": "點掌財經",
+      "vod_pic": "https://i.imgur.com/N8YdX6W.png",
+      "vod_play_url": "http://cclive2.aniu.tv/live/anzb.m3u8"
+    },
+    {
+      "vod_name": "龙口图文",
+      "vod_pic": "None",
+      "vod_play_url": "http://yslk.chinashadt.com:1635/live/stream:di4.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "龙口新闻综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://yslk.chinashadt.com:1635/live/stream:di1.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "龙口生活",
+      "vod_pic": "None",
+      "vod_play_url": "http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8"
+    },
+    {
+      "vod_name": "龙岩公共",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream.lytv.net.cn/1/sd/live.m3u8"
+    },
+    {
+      "vod_name": "龙岩综合",
+      "vod_pic": "None",
+      "vod_play_url": "http://stream.lytv.net.cn/2/sd/live.m3u8"
+    }
+
+  ]}
