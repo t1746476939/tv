@@ -1,0 +1,92 @@
+{"list": [
+{
+      "vod_name": "TVB翡翠台",
+      "vod_pic": "",
+      "vod_play_url": "http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=188&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+  {
+      "vod_name": "翡翠台",
+      "vod_pic": "None",
+      "vod_play_url": "http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=188&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+  {
+      "vod_name": "TVB翡翠台",
+      "vod_pic": "",
+      "vod_play_url": "http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=188&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
+    },
+  {
+      "vod_name": "TVBS新聞",
+      "vod_pic": "https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png",
+      "vod_play_url": "http://seb.sason.top/sc/tvbsxw_fhd.m3u8"
+    },
+  {
+      "vod_name": "澳视澳门",
+      "vod_pic": "http://www.tvyan.com/uploads/dianshi/tdmaomen.jpg",
+      "vod_play_url": "http://live3.tdm.com.mo:1935/ch1/ch1.live/playlist.m3u8"
+    },
+  {
+      "vod_name": "澳视澳门",
+      "vod_pic": "None",
+      "vod_play_url": "http://61.244.22.4/ch1/ch1.live/playelist.m3u8"
+    },
+  {
+      "vod_name": "澳门1",
+      "vod_pic": "None",
+      "vod_play_url": "http://61.244.22.4/ch3/ch3.live/playelist.m3u8"
+    },
+  {
+      "vod_name": "澳门2",
+      "vod_pic": "None",
+      "vod_play_url": "http://61.244.22.4/ch2/ch2.live/playelist.m3u8"
+    },
+  {
+      "vod_name": "澳门体育",
+      "vod_pic": "None",
+      "vod_play_url": "http://61.244.22.4/ch4/sport_ch4.live/playelist.m3u8"
+    },
+    {
+      "vod_name": "澳门体育",
+      "vod_pic": "http://www.tvyan.com/uploads/dianshi/tdmty.jpg",
+      "vod_play_url": "http://live3.tdm.com.mo:1935/ch4/sport_ch4.live/playlist.m3u8"
+    },
+    {
+      "vod_name": "澳门卫星",
+      "vod_pic": "http://www.tvyan.com/uploads/dianshi/aomen-macau.jpg",
+      "vod_play_url": "http://live3.tdm.com.mo:1935/ch3/ch3.live/playlist.m3u8"
+    },
+    {
+      "vod_name": "澳门资讯",
+      "vod_pic": "http://www.tvyan.com/uploads/dianshi/tdmzxt.jpg",
+      "vod_play_url": "http://live3.tdm.com.mo:1935/ch5/info_ch5.live/playlist.m3u8"
+    },
+  {
+      "vod_name": "TVB Xing He 星河",
+      "vod_pic": "https://upload.wikimedia.org/wikipedia/zh/thumb/1/17/TVB_Xing_He_logo_2017.png/220px-TVB_Xing_He_logo_2017.png",
+      "vod_play_url": "http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8"
+    },
+  {
+      "vod_name": "TVB 明珠台",
+      "vod_pic": "",
+      "vod_play_url": "http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=12?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=12&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_rate_id=2&FvSeid=1&Pcontent_id=8114.m3u8&Provider_id=0"
+    },
+  {
+      "vod_name": "凤凰香港",
+      "vod_pic": "None",
+      "vod_play_url": "http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8"
+    },
+  {
+      "vod_name": "香港开电视 / HKSTV-HKS",
+      "vod_pic": "https://upload.wikimedia.org/wikipedia/zh/e/ed/HK_open_tv_logo.jpg",
+      "vod_play_url": "http://media.fantv.hk/m3u8/archive/channel2.m3u8"
+    },
+  {
+      "vod_name": "香港衛視",
+      "vod_pic": "https://i.imgur.com/wnQPn2d.jpg",
+      "vod_play_url": "http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8"
+    },
+  {
+      "vod_name": "HKSTV (香港衛視)",
+      "vod_pic": "https://upload.wikimedia.org/wikipedia/en/a/a1/HKSTV_Logo.jpg",
+      "vod_play_url": "https://al-pull2.hkatv.vip/live/hktv20210929.m3u8"
+    }
+]}
