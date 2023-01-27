@@ -1,0 +1,269 @@
+﻿{
+  "list": [
+    {
+      "vod_name": "广东卫视",
+      "vod_pic": "",
+      "vod_play_url": "https://wstctv.gdtv.cn/live/gdws.m3u8?auth_key=1674620275-0-0-9eb634c1751c379bedde3ae39a238a05"
+    },
+    {
+      "vod_name": "广东珠江频道",
+      "vod_pic": "",
+      "vod_play_url": "https://zjtctv.gdtv.cn/live/gdzj.m3u8?auth_key=1674621164-0-0-a8748ef5b5deec6deb62bebb1fecea86"
+    },
+    {
+      "vod_name": "广东体育",
+      "vod_pic": "",
+      "vod_play_url": "https://tytctv.gdtv.cn/live/gdty.m3u8?auth_key=1674621260-0-0-480c33b83f92ad35f35b0aa06fad9fc6"
+    },
+    {
+      "vod_name": "广东公共",
+      "vod_pic": "https://i.imgur.com/IREC9RR.png",
+      "vod_play_url": "https://ggtctv.gdtv.cn/live/gdgg.m3u8?auth_key=1674621352-0-0-fadd6015c1746a0354b3a48376f3e48b"
+    },
+    {
+      "vod_name": "广东新闻",
+      "vod_pic": "https://i.imgur.com/YYcuZjn.png",
+      "vod_play_url": "https://xwtctv.gdtv.cn/live/xwpd.m3u8?auth_key=1674621410-0-0-de44541d65cd09758377334aeb0b6cdf"
+    },
+    {
+      "vod_name": "广东嘉佳卡通频道",
+      "vod_pic": "https://i.imgur.com/8COTDdm.png",
+      "vod_play_url": "https://kttctv.gdtv.cn/live/jjkt.m3u8?auth_key=1674621448-0-0-e58dbfee9978db7d9ac816950f890968"
+    },
+    {
+      "vod_name": "广东国际",
+      "vod_pic": "https://i.imgur.com/GGHckoY.png",
+      "vod_play_url": "https://gjtctv.gdtv.cn/live/gdgj.m3u8?auth_key=1674621500-0-0-7e308f59d91fc6e417577f9f347e5f69"
+    },
+    {
+      "vod_name": "广东经济科教频道",
+      "vod_pic": "https://i.imgur.com/Mct3fYK.png",
+      "vod_play_url": "https://jjtctv.gdtv.cn/live/jjkj.m3u8?auth_key=1674621538-0-0-735b8ba4a3f29ebd1859043287c5e579"
+    },
+    {
+      "vod_name": "广东大湾区卫视",
+      "vod_pic": "https://i.imgur.com/m2R60TJ.png",
+      "vod_play_url": "https://nftctv.gdtv.cn/live/nfws.m3u8?auth_key=1674621576-0-0-d9ef730c4cfca18c69be85dfca33a84f"
+    },
+    {
+      "vod_name": "广东影视",
+      "vod_pic": "https://i.imgur.com/YgrsXQJ.png",
+      "vod_play_url": "https://ystctv.gdtv.cn/live/gdys.m3u8?auth_key=1674621621-0-0-66544e95f148fcd5ad62d47bc8d7ac99"
+    },
+    {
+      "vod_name": "广东综艺",
+      "vod_pic": "https://i.imgur.com/vOPU9eu.png",
+      "vod_play_url": "https://zytctv.gdtv.cn/live/gdzy.m3u8?auth_key=1674621677-0-0-4337e44dabd6dd2fd6ee0c8d45e91aad"
+    },
+    {
+      "vod_name": "广东少儿",
+      "vod_pic": "https://i.imgur.com/KylKZC3.png",
+      "vod_play_url": "https://setctv.gdtv.cn/live/gdse.m3u8?auth_key=1674621708-0-0-ad59071185fa9bc8cc9b4b0549fe226a"
+    },
+    {
+      "vod_name": "广州综合",
+      "vod_pic": "https://i.imgur.com/KylKZC3.png",
+      "vod_play_url": "https://aplays.gztv.com/sec/zhonghes.m3u8?auth_key=1674614460-0-0-701d794770d8e74b269baa45f8d8914b"
+    },
+    {
+      "vod_name": "广州经济与法",
+      "vod_pic": "https://i.imgur.com/WODuqGT.png",
+      "vod_play_url": "https://aplays.gztv.com/sec/fazhi.m3u8?auth_key=1674614562-0-0-643627441b22dc319ea75f956b8614b5"
+    },
+    {
+      "vod_name": "CCTV-3",
+      "vod_pic": "https://i.imgur.com/tYtUmUR.png",
+      "vod_play_url": "http://tv.cctv.com/cctv3/"
+    },
+    {
+      "vod_name": "CCTV-4 America",
+      "vod_pic": "https://i.imgur.com/gBbLyqh.png",
+      "vod_play_url": "http://tv.cctv.com/cctv4america/"
+    },
+    {
+      "vod_name": "CCTV-4 Asia",
+      "vod_pic": "https://i.imgur.com/tWt4Wou.png",
+      "vod_play_url": "http://tv.cctv.com/cctv4asia/"
+    },
+    {
+      "vod_name": "CCTV-4 Europe",
+      "vod_pic": "https://i.imgur.com/HGLFdfk.png",
+      "vod_play_url": "http://tv.cctv.com/cctv4europe/"
+    },
+    {
+      "vod_name": "CCTV-4K",
+      "vod_pic": "https://i.imgur.com/MgAVbmO.png",
+      "vod_play_url": "http://tv.cctv.com/"
+    },
+    {
+      "vod_name": "CCTV-5",
+      "vod_pic": "https://i.imgur.com/EqURkoF.png",
+      "vod_play_url": "http://tv.cctv.com/cctv5/"
+    },
+    {
+      "vod_name": "CCTV-5+",
+      "vod_pic": "https://i.imgur.com/uW1b1KO.png",
+      "vod_play_url": "http://tv.cctv.com/cctv5plus/"
+    },
+    {
+      "vod_name": "CCTV-6",
+      "vod_pic": "https://i.imgur.com/dDqvRHX.png",
+      "vod_play_url": "http://tv.cctv.com/cctv6/"
+    },
+    {
+      "vod_name": "CCTV-7",
+      "vod_pic": "https://i.imgur.com/g7nb3L0.png",
+      "vod_play_url": "http://tv.cctv.com/cctv7/"
+    },
+    {
+      "vod_name": "CCTV-8",
+      "vod_pic": "https://i.imgur.com/WG8ENnR.png",
+      "vod_play_url": "http://tv.cctv.com/cctv8/"
+    },
+    {
+      "vod_name": "CCTV-8",
+      "vod_pic": "https://i.imgur.com/7XSIzq2.png",
+      "vod_play_url": "https://reflect-claremont.cablecast.tv/CablecastPublicSite/?channel=1"
+    },
+    {
+      "vod_name": "CCTV-8K",
+      "vod_pic": "https://i.imgur.com/rZiYjyi.png",
+      "vod_play_url": "http://tv.cctv.com/"
+    },
+    {
+      "vod_name": "CCTV-9",
+      "vod_pic": "https://i.imgur.com/3R1dkIK.png",
+      "vod_play_url": "http://tv.cctv.com/cctv9/"
+    },
+    {
+      "vod_name": "CCTV-Billiards",
+      "vod_pic": "https://i.imgur.com/cpD9AXZ.png",
+      "vod_play_url": "http://tv.cctv.com/"
+    },
+    {
+      "vod_name": "CCTV Channel 8",
+      "vod_pic": "https://i.imgur.com/YzpmkCm.png",
+      "vod_play_url": "https://www.cctvcambridge.org/channel-8/"
+    },
+    {
+      "vod_name": "CCTV Channel 9",
+      "vod_pic": "https://i.imgur.com/YzpmkCm.png",
+      "vod_play_url": "https://www.cctvcambridge.org/channel-9/"
+    },
+    {
+      "vod_name": "CCTV Channel 96",
+      "vod_pic": "https://i.imgur.com/YzpmkCm.png",
+      "vod_play_url": "https://www.cctvcambridge.org/channel-96/"
+    },
+    {
+      "vod_name": "CCTV-China Television Shopping Channel",
+      "vod_pic": "https://i.imgur.com/ToJBJg4.png",
+      "vod_play_url": "http://tv.cctv.com/"
+    },
+    {
+      "vod_name": "CCTV-Culture of Quality",
+      "vod_pic": "https://i.imgur.com/Paig8gG.png",
+      "vod_play_url": "http://tv.cctv.com/"
+    },
+    {
+      "vod_name": "CCTV Daifu",
+      "vod_pic": "https://i.imgur.com/MaUG9MF.png",
+      "vod_play_url": "http://www.cctvdf.com/"
+    },
+    {
+      "vod_name": "CCTV-Entertainment",
+      "vod_pic": "https://i.imgur.com/6JZWAoY.png",
+      "vod_play_url": "http://tv.cctv.com/"
+    },
+    {
+      "vod_name": "CCTV-Golf & Tennis",
+      "vod_pic": "https://i.imgur.com/pXzlFZm.png",
+      "vod_play_url": "http://tv.cctv.com/"
+    },
+    {
+      "vod_name": "CCTV-Health",
+      "vod_pic": "https://i.imgur.com/cdL6oGn.png",
+      "vod_play_url": "http://tv.cctv.com/"
+    },
+    {
+      "vod_name": "CCTV-Nostalgia Theater",
+      "vod_pic": "https://i.imgur.com/0YAL0RM.png",
+      "vod_play_url": "http://tv.cctv.com/"
+    },
+    {
+      "vod_name": "CCTV-Opera",
+      "vod_pic": "https://i.imgur.com/WJpqKuz.png",
+      "vod_play_url": "http://tv.cctv.com/"
+    },
+    {
+      "vod_name": "CCTV+ 1",
+      "vod_pic": "https://i.imgur.com/U8d4Is6.png",
+      "vod_play_url": "https://www.cctvplus.com/"
+    },
+    {
+      "vod_name": "CCTV+ 2",
+      "vod_pic": "https://i.imgur.com/qSg862A.png",
+      "vod_play_url": "https://www.cctvplus.com/"
+    },
+    {
+      "vod_name": "CCTV-Storm Football",
+      "vod_pic": "https://i.imgur.com/BSsvdib.png",
+      "vod_play_url": "http://tv.cctv.com/"
+    },
+    {
+      "vod_name": "CCTV-Storm Music",
+      "vod_pic": "https://i.imgur.com/2pLRFJG.png",
+      "vod_play_url": "http://tv.cctv.com/"
+    },
+    {
+      "vod_name": "CCTV-Storm Theater",
+      "vod_pic": "https://i.imgur.com/uEOu5I0.png",
+      "vod_play_url": "http://tv.cctv.com/"
+    },
+    {
+      "vod_name": "CCTV-The First Theater",
+      "vod_pic": "https://i.imgur.com/t0vGQmr.png",
+      "vod_play_url": "http://tv.cctv.com/"
+    },
+    {
+      "vod_name": "CCTV-TV Guide",
+      "vod_pic": "https://i.imgur.com/ZymwwfB.png",
+      "vod_play_url": "http://tv.cctv.com/"
+    },
+    {
+      "vod_name": "CCTV-Weapon & Technology",
+      "vod_pic": "https://i.imgur.com/uhott6L.png",
+      "vod_play_url": "http://tv.cctv.com/"
+    },
+    {
+      "vod_name": "CCTV-Women's Fashion",
+      "vod_pic": "https://i.imgur.com/GXssRTm.png",
+      "vod_play_url": "http://tv.cctv.com/"
+    },
+    {
+      "vod_name": "CCTV-World Geography",
+      "vod_pic": "https://i.imgur.com/PwgImsJ.png",
+      "vod_play_url": "http://tv.cctv.com/"
+    },
+    {
+      "vod_name": "KICCTV",
+      "vod_pic": "https://i.imgur.com/4kU1VNx.png",
+      "vod_play_url": "https://www.kicc.org.uk/tv-radio/"
+    },
+    {
+      "vod_name": "NCCTV",
+      "vod_pic": "https://i.imgur.com/JIn11kX.png",
+      "vod_play_url": "https://www.newcastlede.gov/758/NCCTV"
+    },
+    {
+      "vod_name": "PCCtv",
+      "vod_pic": "https://i.imgur.com/nJOOTBX.png",
+      "vod_play_url": "https://www.pasadenamedia.org/pcctv/"
+    },
+    {
+      "vod_name": "Red CCTV",
+      "vod_pic": "https://i.imgur.com/YC5FRmq.png",
+      "vod_play_url": "https://red-cctv.com/"
+    }
+  ]
+}
